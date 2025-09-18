@@ -1,0 +1,304 @@
+id,title,category,description,location,availability_start,availability_end,condition,rating
+1,Screwdriver Set,Tools,A poor screwdriver set for tools use.,New York,2024-11-11,2025-01-21,fair,2.3
+2,Saw,Tools,A poor saw for tools use.,Miami,2024-03-16,2024-05-08,poor,1.0
+3,Running Shoes,Sports,A good running shoes for sports use.,Miami,2024-12-03,2025-10-14,excellent,3.8
+4,Portable Speaker,Electronics,A excellent portable speaker for electronics use.,Seattle,2024-07-05,2025-04-11,excellent,4.3
+5,To Kill a Mockingbird,Books,A fair to kill a mockingbird for books use.,Seattle,2024-11-25,2025-06-26,good,3.2
+6,Laptop,Electronics,A excellent laptop for electronics use.,Miami,2024-05-30,2024-08-02,good,2.6
+7,Fahrenheit 451,Books,A excellent fahrenheit 451 for books use.,Los Angeles,2024-10-27,2025-08-17,new,5.0
+8,Hammer,Tools,A fair hammer for tools use.,Boston,2024-03-09,2024-09-14,excellent,4.3
+9,Tablet,Electronics,A good tablet for electronics use.,Boston,2024-08-23,2024-10-29,poor,1.0
+10,Jane Eyre,Books,A excellent jane eyre for books use.,Los Angeles,2024-12-30,2025-04-17,good,3.0
+11,Bicycle,Sports,A fair bicycle for sports use.,Miami,2024-02-15,2024-09-17,good,3.4
+12,Tennis Racket,Sports,A fair tennis racket for sports use.,Miami,2024-06-04,2024-11-10,good,2.0
+13,USB Drive,Electronics,A new usb drive for electronics use.,San Francisco,2024-07-07,2025-01-28,excellent,3.1
+14,Slow Cooker,Kitchen,A new slow cooker for kitchen use.,Boston,2024-05-01,2024-10-03,poor,1.5
+15,Running Shoes,Sports,A new running shoes for sports use.,Seattle,2024-02-15,2024-03-20,fair,2.5
+16,Frying Pan,Kitchen,A excellent frying pan for kitchen use.,Los Angeles,2024-12-01,2025-07-03,poor,1.0
+17,External Hard Drive,Electronics,A excellent external hard drive for electronics use.,New York,2024-11-26,2025-11-20,good,3.0
+18,Utility Knife,Tools,A excellent utility knife for tools use.,Chicago,2024-08-20,2024-12-21,poor,1.0
+19,Knife Set,Kitchen,A new knife set for kitchen use.,Los Angeles,2024-12-15,2025-04-23,excellent,3.6
+20,The Great Gatsby,Books,A fair the great gatsby for books use.,San Francisco,2024-08-24,2024-11-06,fair,1.2
+21,Running Shoes,Sports,A good running shoes for sports use.,Denver,2024-11-22,2025-02-15,excellent,3.0
+22,Tablet,Electronics,A fair tablet for electronics use.,Boston,2024-06-29,2025-05-24,good,2.0
+23,Basketball,Sports,A good basketball for sports use.,Austin,2024-06-24,2025-03-05,fair,2.1
+24,Running Shoes,Sports,A poor running shoes for sports use.,Boston,2024-05-23,2024-08-28,excellent,3.4
+25,The Catcher in the Rye,Books,A excellent the catcher in the rye for books use.,San Francisco,2024-01-30,2024-09-13,new,5.0
+26,Screwdriver Set,Tools,A new screwdriver set for tools use.,Miami,2024-02-22,2024-12-08,new,5.0
+27,Mixing Bowls,Kitchen,A good mixing bowls for kitchen use.,Seattle,2024-02-01,2024-09-16,fair,2.4
+28,Wrench Set,Tools,A good wrench set for tools use.,Chicago,2024-01-29,2024-09-29,fair,2.3
+29,The Great Gatsby,Books,A new the great gatsby for books use.,San Francisco,2024-03-05,2024-07-23,fair,1.5
+30,Screwdriver Set,Tools,A new screwdriver set for tools use.,Austin,2024-06-13,2024-09-16,fair,1.1
+31,Running Shoes,Sports,A fair running shoes for sports use.,New York,2024-05-05,2024-08-01,good,3.0
+32,USB Drive,Electronics,A fair usb drive for electronics use.,Atlanta,2024-09-24,2025-06-14,poor,1.0
+33,Dumbbells,Sports,A fair dumbbells for sports use.,Austin,2024-09-12,2025-09-07,good,3.4
+34,Tape Measure,Tools,A new tape measure for tools use.,San Francisco,2024-12-14,2025-06-24,good,3.5
+35,Running Shoes,Sports,A excellent running shoes for sports use.,Miami,2024-03-16,2024-07-08,new,4.4
+36,External Hard Drive,Electronics,A poor external hard drive for electronics use.,Denver,2024-08-02,2025-05-14,poor,1.0
+37,Fahrenheit 451,Books,A poor fahrenheit 451 for books use.,Boston,2024-09-12,2025-09-10,excellent,4.4
+38,Ladder,Tools,A poor ladder for tools use.,Boston,2024-01-14,2024-09-12,fair,2.5
+39,Badminton Set,Sports,A poor badminton set for sports use.,Atlanta,2024-04-20,2024-12-07,good,3.0
+40,Dumbbells,Sports,A new dumbbells for sports use.,Atlanta,2024-09-29,2025-04-11,good,2.9
+41,Coffee Maker,Kitchen,A fair coffee maker for kitchen use.,Atlanta,2024-02-05,2024-06-09,good,2.8
+42,Tape Measure,Tools,A excellent tape measure for tools use.,San Francisco,2024-12-26,2025-03-26,good,2.5
+43,Pliers,Tools,A poor pliers for tools use.,Boston,2024-11-06,2025-09-14,excellent,3.9
+44,Power Bank,Electronics,A excellent power bank for electronics use.,New York,2024-01-30,2025-01-23,good,3.1
+45,Harry Potter and the Sorcerer's Stone,Books,A fair harry potter and the sorcerer's stone for books use.,Miami,2024-07-04,2025-05-24,fair,1.5
+46,Laptop,Electronics,A poor laptop for electronics use.,Atlanta,2024-01-02,2024-12-29,new,4.9
+47,Pliers,Tools,A fair pliers for tools use.,Atlanta,2024-02-19,2024-04-06,poor,1.0
+48,Skateboard,Sports,A fair skateboard for sports use.,Chicago,2024-04-24,2024-06-09,good,2.7
+49,Microwave,Kitchen,A excellent microwave for kitchen use.,New York,2024-12-06,2025-05-13,fair,1.9
+50,Soccer Ball,Sports,A poor soccer ball for sports use.,Seattle,2024-12-28,2025-03-09,new,4.5
+51,The Great Gatsby,Books,A poor the great gatsby for books use.,Austin,2024-08-02,2025-04-02,good,3.4
+52,Yoga Mat,Sports,A new yoga mat for sports use.,Denver,2024-05-15,2024-11-19,excellent,3.4
+53,Pliers,Tools,A poor pliers for tools use.,Chicago,2024-01-25,2024-10-24,good,3.3
+54,Jane Eyre,Books,A poor jane eyre for books use.,Chicago,2024-02-23,2024-07-06,excellent,3.6
+55,Knife Set,Kitchen,A good knife set for kitchen use.,Miami,2024-03-28,2025-01-28,poor,1.2
+56,Badminton Set,Sports,A excellent badminton set for sports use.,Denver,2024-08-07,2025-04-28,new,5.0
+57,Ladder,Tools,A poor ladder for tools use.,Austin,2024-07-10,2025-06-26,poor,1.2
+58,External Hard Drive,Electronics,A fair external hard drive for electronics use.,New York,2024-07-03,2025-06-09,new,4.2
+59,Portable Speaker,Electronics,A poor portable speaker for electronics use.,Austin,2024-06-03,2025-03-17,new,5.0
+60,External Hard Drive,Electronics,A poor external hard drive for electronics use.,San Francisco,2024-01-12,2024-02-23,new,4.3
+61,Screwdriver Set,Tools,A fair screwdriver set for tools use.,Miami,2024-03-31,2024-10-16,excellent,3.2
+62,External Hard Drive,Electronics,A new external hard drive for electronics use.,Miami,2024-01-31,2024-07-30,good,3.3
+63,Electric Drill,Tools,A fair electric drill for tools use.,Seattle,2024-03-04,2025-02-15,excellent,4.2
+64,The Catcher in the Rye,Books,A good the catcher in the rye for books use.,Atlanta,2024-11-16,2025-03-01,excellent,3.2
+65,Saw,Tools,A poor saw for tools use.,Chicago,2024-06-13,2024-11-27,poor,1.0
+66,Coffee Maker,Kitchen,A poor coffee maker for kitchen use.,Denver,2024-08-22,2024-12-04,poor,1.0
+67,The Great Gatsby,Books,A fair the great gatsby for books use.,Los Angeles,2024-02-19,2024-07-30,new,4.2
+68,The Great Gatsby,Books,A fair the great gatsby for books use.,Seattle,2024-06-17,2025-05-01,excellent,4.0
+69,The Hobbit,Books,A excellent the hobbit for books use.,New York,2024-02-15,2024-03-21,excellent,4.1
+70,Level,Tools,A fair level for tools use.,Seattle,2024-11-02,2025-08-19,poor,1.0
+71,The Great Gatsby,Books,A fair the great gatsby for books use.,Los Angeles,2024-11-20,2025-04-06,excellent,3.4
+72,Fahrenheit 451,Books,A good fahrenheit 451 for books use.,Miami,2024-01-06,2024-07-13,good,3.3
+73,Toaster,Kitchen,A excellent toaster for kitchen use.,Austin,2024-11-10,2025-05-08,fair,2.1
+74,Utility Knife,Tools,A new utility knife for tools use.,Austin,2024-03-20,2024-06-01,good,2.1
+75,Badminton Set,Sports,A excellent badminton set for sports use.,New York,2024-07-25,2024-10-01,good,3.0
+76,Dumbbells,Sports,A poor dumbbells for sports use.,San Francisco,2024-01-04,2024-04-04,new,4.6
+77,Knife Set,Kitchen,A poor knife set for kitchen use.,Austin,2024-02-16,2024-11-03,poor,1.0
+78,Electric Kettle,Kitchen,A excellent electric kettle for kitchen use.,Seattle,2024-08-08,2025-06-27,good,2.1
+79,Portable Speaker,Electronics,A excellent portable speaker for electronics use.,Miami,2024-01-24,2024-10-24,fair,1.2
+80,Mixing Bowls,Kitchen,A excellent mixing bowls for kitchen use.,Miami,2024-08-06,2025-07-21,fair,1.5
+81,Electric Drill,Tools,A fair electric drill for tools use.,Boston,2024-02-01,2025-01-09,excellent,4.2
+82,Utility Knife,Tools,A new utility knife for tools use.,New York,2024-02-04,2024-07-15,poor,1.0
+83,Tennis Racket,Sports,A new tennis racket for sports use.,Seattle,2024-01-20,2024-11-22,new,4.8
+84,Basketball,Sports,A poor basketball for sports use.,Chicago,2024-08-15,2024-09-25,fair,1.5
+85,Mixing Bowls,Kitchen,A excellent mixing bowls for kitchen use.,Boston,2024-08-11,2025-05-02,excellent,4.4
+86,USB Drive,Electronics,A fair usb drive for electronics use.,Chicago,2024-08-12,2024-12-04,good,2.6
+87,Electric Drill,Tools,A new electric drill for tools use.,Atlanta,2024-04-08,2024-06-26,fair,1.0
+88,Microwave,Kitchen,A poor microwave for kitchen use.,New York,2024-08-31,2025-07-18,excellent,3.2
+89,Tennis Racket,Sports,A fair tennis racket for sports use.,Denver,2024-09-05,2025-04-16,good,2.0
+90,Electric Drill,Tools,A good electric drill for tools use.,New York,2024-06-22,2025-03-28,excellent,4.5
+91,Level,Tools,A new level for tools use.,Atlanta,2024-10-30,2025-06-15,good,2.1
+92,To Kill a Mockingbird,Books,A excellent to kill a mockingbird for books use.,Austin,2024-12-24,2025-02-21,fair,1.2
+93,Electric Drill,Tools,A fair electric drill for tools use.,Chicago,2024-02-23,2024-08-13,poor,1.3
+94,Toaster,Kitchen,A fair toaster for kitchen use.,Chicago,2024-08-23,2024-11-04,poor,1.0
+95,Fahrenheit 451,Books,A poor fahrenheit 451 for books use.,Atlanta,2024-03-06,2024-07-14,poor,1.3
+96,Headphones,Electronics,A poor headphones for electronics use.,Miami,2024-09-05,2025-05-10,excellent,3.8
+97,External Hard Drive,Electronics,A fair external hard drive for electronics use.,Atlanta,2024-11-08,2025-07-21,good,2.1
+98,Pride and Prejudice,Books,A excellent pride and prejudice for books use.,Atlanta,2024-02-17,2024-06-08,poor,1.0
+99,Level,Tools,A new level for tools use.,New York,2024-11-19,2025-01-22,excellent,3.7
+100,Blender,Kitchen,A new blender for kitchen use.,Boston,2024-05-26,2024-12-23,good,2.7
+101,Camera,Electronics,A excellent camera for electronics use.,Atlanta,2024-04-10,2024-05-22,good,2.4
+102,Camera,Electronics,A good camera for electronics use.,Austin,2024-08-31,2024-11-15,poor,1.0
+103,Tennis Racket,Sports,A new tennis racket for sports use.,Seattle,2024-02-19,2024-06-23,good,3.2
+104,Yoga Mat,Sports,A new yoga mat for sports use.,Los Angeles,2024-01-25,2024-05-19,new,4.6
+105,Harry Potter and the Sorcerer's Stone,Books,A excellent harry potter and the sorcerer's stone for books use.,Miami,2024-06-12,2025-02-05,excellent,3.9
+106,Wrench Set,Tools,A new wrench set for tools use.,Seattle,2024-11-12,2025-09-10,new,4.0
+107,USB Drive,Electronics,A new usb drive for electronics use.,Boston,2024-08-28,2025-06-05,new,4.6
+108,Camera,Electronics,A new camera for electronics use.,Austin,2024-08-30,2025-06-19,new,5.0
+109,Smartphone Charger,Electronics,A poor smartphone charger for electronics use.,Chicago,2024-07-20,2024-10-13,fair,1.2
+110,Screwdriver Set,Tools,A fair screwdriver set for tools use.,Denver,2024-09-20,2025-03-05,poor,1.0
+111,Smartphone Charger,Electronics,A new smartphone charger for electronics use.,New York,2024-10-14,2025-08-11,excellent,3.4
+112,Food Processor,Kitchen,A new food processor for kitchen use.,Boston,2024-01-23,2024-09-21,poor,1.0
+113,Jane Eyre,Books,A fair jane eyre for books use.,Denver,2024-02-23,2024-04-09,fair,2.2
+114,Camera,Electronics,A excellent camera for electronics use.,Austin,2024-01-08,2024-04-29,new,4.0
+115,Smartphone Charger,Electronics,A good smartphone charger for electronics use.,Atlanta,2024-01-21,2024-02-22,excellent,3.3
+116,Camera,Electronics,A poor camera for electronics use.,Denver,2024-08-15,2025-03-20,new,5.0
+117,Saw,Tools,A poor saw for tools use.,Austin,2024-10-31,2025-06-01,fair,1.7
+118,Golf Clubs,Sports,A poor golf clubs for sports use.,Miami,2024-12-07,2025-04-06,fair,1.0
+119,Hammer,Tools,A excellent hammer for tools use.,Austin,2024-11-08,2025-06-30,fair,1.4
+120,Ladder,Tools,A new ladder for tools use.,Austin,2024-06-04,2025-04-02,excellent,4.0
+121,Tape Measure,Tools,A poor tape measure for tools use.,Seattle,2024-06-19,2024-12-10,excellent,3.9
+122,Ladder,Tools,A good ladder for tools use.,Seattle,2024-12-26,2025-11-10,new,5.0
+123,Running Shoes,Sports,A new running shoes for sports use.,San Francisco,2024-06-13,2024-12-25,excellent,3.6
+124,Level,Tools,A excellent level for tools use.,San Francisco,2024-05-07,2024-08-22,excellent,4.2
+125,Blender,Kitchen,A good blender for kitchen use.,Austin,2024-05-28,2024-12-10,poor,1.0
+126,Soccer Ball,Sports,A excellent soccer ball for sports use.,Boston,2024-12-12,2025-02-13,new,4.9
+127,Camera,Electronics,A excellent camera for electronics use.,Seattle,2024-04-03,2025-01-07,excellent,4.3
+128,Harry Potter and the Sorcerer's Stone,Books,A good harry potter and the sorcerer's stone for books use.,Austin,2024-02-17,2024-07-24,new,4.8
+129,The Catcher in the Rye,Books,A fair the catcher in the rye for books use.,Denver,2024-05-25,2024-10-14,excellent,4.1
+130,Electric Kettle,Kitchen,A fair electric kettle for kitchen use.,Seattle,2024-08-23,2024-11-04,excellent,3.6
+131,Electric Kettle,Kitchen,A excellent electric kettle for kitchen use.,San Francisco,2024-03-19,2024-11-12,excellent,4.5
+132,Wrench Set,Tools,A poor wrench set for tools use.,Miami,2024-08-31,2025-02-09,excellent,3.2
+133,Screwdriver Set,Tools,A new screwdriver set for tools use.,Austin,2024-12-25,2025-02-05,new,4.2
+134,Fahrenheit 451,Books,A good fahrenheit 451 for books use.,Miami,2024-11-20,2025-04-07,fair,1.5
+135,Portable Speaker,Electronics,A fair portable speaker for electronics use.,Chicago,2024-10-19,2024-12-24,excellent,4.5
+136,Pliers,Tools,A poor pliers for tools use.,New York,2024-02-29,2024-05-26,excellent,4.5
+137,Slow Cooker,Kitchen,A fair slow cooker for kitchen use.,Seattle,2024-06-16,2025-05-21,excellent,4.0
+138,Harry Potter and the Sorcerer's Stone,Books,A good harry potter and the sorcerer's stone for books use.,Chicago,2024-12-23,2025-04-03,poor,1.1
+139,Basketball,Sports,A excellent basketball for sports use.,Atlanta,2024-11-30,2025-11-02,excellent,3.9
+140,Wrench Set,Tools,A poor wrench set for tools use.,Chicago,2024-12-07,2025-05-18,new,5.0
+141,Skateboard,Sports,A excellent skateboard for sports use.,Boston,2024-03-03,2025-01-11,good,2.5
+142,Coffee Maker,Kitchen,A excellent coffee maker for kitchen use.,New York,2024-08-25,2025-02-12,excellent,4.0
+143,Coffee Maker,Kitchen,A fair coffee maker for kitchen use.,Seattle,2024-07-29,2025-01-24,fair,1.9
+144,Camera,Electronics,A poor camera for electronics use.,Los Angeles,2024-04-06,2024-06-15,good,3.3
+145,Skateboard,Sports,A fair skateboard for sports use.,Austin,2024-06-03,2025-04-04,fair,1.6
+146,Harry Potter and the Sorcerer's Stone,Books,A fair harry potter and the sorcerer's stone for books use.,Atlanta,2024-01-24,2024-09-04,fair,1.1
+147,1984,Books,A poor 1984 for books use.,San Francisco,2024-08-11,2024-12-10,fair,2.1
+148,Microwave,Kitchen,A excellent microwave for kitchen use.,Chicago,2024-09-16,2025-04-30,good,2.5
+149,Golf Clubs,Sports,A fair golf clubs for sports use.,New York,2024-07-25,2024-12-02,fair,2.3
+150,Portable Speaker,Electronics,A poor portable speaker for electronics use.,Atlanta,2024-12-08,2025-01-15,excellent,4.3
+151,Coffee Maker,Kitchen,A good coffee maker for kitchen use.,Denver,2024-11-05,2025-08-14,excellent,3.3
+152,Hammer,Tools,A excellent hammer for tools use.,Austin,2024-03-31,2024-09-02,new,5.0
+153,Dumbbells,Sports,A poor dumbbells for sports use.,Los Angeles,2024-09-29,2025-04-21,poor,1.1
+154,Basketball,Sports,A fair basketball for sports use.,Atlanta,2024-01-12,2024-07-27,poor,1.0
+155,Level,Tools,A new level for tools use.,New York,2024-03-30,2024-10-08,fair,2.4
+156,Projector,Electronics,A good projector for electronics use.,Chicago,2024-05-07,2025-03-12,new,4.3
+157,Screwdriver Set,Tools,A fair screwdriver set for tools use.,Atlanta,2024-02-26,2025-01-15,poor,1.0
+158,Ladder,Tools,A fair ladder for tools use.,Denver,2024-04-15,2024-10-22,poor,1.1
+159,Tennis Racket,Sports,A poor tennis racket for sports use.,Chicago,2024-02-09,2025-01-13,poor,1.0
+160,Headphones,Electronics,A excellent headphones for electronics use.,New York,2024-04-13,2025-03-24,excellent,3.6
+161,Pride and Prejudice,Books,A fair pride and prejudice for books use.,Los Angeles,2024-05-23,2025-04-18,excellent,3.0
+162,The Hobbit,Books,A excellent the hobbit for books use.,New York,2024-04-07,2025-01-14,poor,1.3
+163,Toaster,Kitchen,A excellent toaster for kitchen use.,Atlanta,2024-06-16,2024-09-25,new,5.0
+164,Golf Clubs,Sports,A excellent golf clubs for sports use.,Denver,2024-11-27,2025-07-05,excellent,4.3
+165,Pliers,Tools,A poor pliers for tools use.,Seattle,2024-01-08,2024-10-03,fair,2.2
+166,Soccer Ball,Sports,A good soccer ball for sports use.,New York,2024-11-25,2025-06-26,fair,1.0
+167,To Kill a Mockingbird,Books,A good to kill a mockingbird for books use.,Seattle,2024-05-30,2025-01-07,good,3.3
+168,Blender,Kitchen,A poor blender for kitchen use.,New York,2024-01-16,2024-09-13,excellent,4.1
+169,Electric Drill,Tools,A fair electric drill for tools use.,Austin,2024-10-02,2024-12-28,excellent,4.0
+170,Coffee Maker,Kitchen,A excellent coffee maker for kitchen use.,Miami,2024-06-22,2025-02-10,new,4.5
+171,Mixing Bowls,Kitchen,A good mixing bowls for kitchen use.,Seattle,2024-07-29,2024-10-15,poor,1.0
+172,Badminton Set,Sports,A fair badminton set for sports use.,Los Angeles,2024-05-27,2024-09-10,poor,1.3
+173,Power Bank,Electronics,A excellent power bank for electronics use.,New York,2024-02-21,2024-09-26,fair,1.7
+174,Electric Kettle,Kitchen,A poor electric kettle for kitchen use.,Seattle,2024-11-27,2025-10-12,excellent,4.5
+175,Ladder,Tools,A excellent ladder for tools use.,Miami,2024-09-27,2025-02-16,fair,2.0
+176,USB Drive,Electronics,A fair usb drive for electronics use.,Chicago,2024-02-26,2025-01-17,new,4.2
+177,Projector,Electronics,A poor projector for electronics use.,Denver,2024-04-16,2024-12-19,poor,1.0
+178,Fahrenheit 451,Books,A excellent fahrenheit 451 for books use.,New York,2024-08-01,2024-10-01,new,5.0
+179,To Kill a Mockingbird,Books,A excellent to kill a mockingbird for books use.,Los Angeles,2024-10-03,2024-12-30,new,4.6
+180,Golf Clubs,Sports,A new golf clubs for sports use.,Atlanta,2024-12-12,2025-05-11,new,4.8
+181,Soccer Ball,Sports,A good soccer ball for sports use.,Miami,2024-05-08,2025-01-06,excellent,3.1
+182,Smartphone Charger,Electronics,A good smartphone charger for electronics use.,Boston,2024-05-05,2025-02-14,excellent,3.4
+183,Laptop,Electronics,A good laptop for electronics use.,Atlanta,2024-08-11,2024-10-19,good,2.1
+184,Harry Potter and the Sorcerer's Stone,Books,A excellent harry potter and the sorcerer's stone for books use.,Chicago,2024-08-07,2024-12-24,poor,1.0
+185,Power Bank,Electronics,A excellent power bank for electronics use.,Los Angeles,2024-09-04,2025-08-19,excellent,3.8
+186,Pride and Prejudice,Books,A new pride and prejudice for books use.,Chicago,2024-01-19,2024-06-11,good,3.2
+187,Blender,Kitchen,A new blender for kitchen use.,Los Angeles,2024-05-18,2024-09-15,good,2.2
+188,Ladder,Tools,A poor ladder for tools use.,Chicago,2024-07-06,2025-02-06,fair,1.5
+189,Skateboard,Sports,A new skateboard for sports use.,Chicago,2024-07-24,2024-10-12,excellent,4.3
+190,Level,Tools,A fair level for tools use.,Miami,2024-09-14,2025-05-03,fair,1.5
+191,Portable Speaker,Electronics,A good portable speaker for electronics use.,Los Angeles,2024-07-09,2024-10-28,good,3.1
+192,Yoga Mat,Sports,A good yoga mat for sports use.,New York,2024-02-09,2025-01-12,poor,1.0
+193,Portable Speaker,Electronics,A poor portable speaker for electronics use.,Seattle,2024-05-31,2024-07-09,fair,1.5
+194,Level,Tools,A fair level for tools use.,Miami,2024-05-25,2025-02-22,new,4.5
+195,Hammer,Tools,A poor hammer for tools use.,San Francisco,2024-10-01,2025-07-28,good,3.3
+196,Harry Potter and the Sorcerer's Stone,Books,A excellent harry potter and the sorcerer's stone for books use.,Denver,2024-04-04,2024-12-26,poor,1.0
+197,Knife Set,Kitchen,A new knife set for kitchen use.,Denver,2024-05-01,2024-11-16,poor,1.0
+198,Saw,Tools,A excellent saw for tools use.,Los Angeles,2024-04-24,2024-08-27,fair,1.4
+199,Hammer,Tools,A poor hammer for tools use.,Boston,2024-01-02,2024-10-18,new,4.6
+200,Golf Clubs,Sports,A poor golf clubs for sports use.,Boston,2024-10-27,2025-04-27,fair,2.5
+201,Smartphone Charger,Electronics,A new smartphone charger for electronics use.,Seattle,2024-11-08,2025-06-26,fair,2.4
+202,Skateboard,Sports,A new skateboard for sports use.,Boston,2024-06-25,2024-10-18,poor,1.4
+203,Microwave,Kitchen,A new microwave for kitchen use.,New York,2024-02-12,2024-09-18,fair,1.1
+204,Coffee Maker,Kitchen,A new coffee maker for kitchen use.,San Francisco,2024-11-05,2025-03-10,new,4.0
+205,Saw,Tools,A fair saw for tools use.,Boston,2024-06-27,2024-11-18,good,2.1
+206,Portable Speaker,Electronics,A poor portable speaker for electronics use.,Chicago,2024-01-23,2024-04-30,good,2.1
+207,Slow Cooker,Kitchen,A fair slow cooker for kitchen use.,Miami,2024-02-11,2024-03-21,poor,1.2
+208,Moby Dick,Books,A good moby dick for books use.,Miami,2024-11-04,2025-07-29,excellent,4.4
+209,1984,Books,A poor 1984 for books use.,Denver,2024-05-14,2025-03-13,poor,1.0
+210,Laptop,Electronics,A excellent laptop for electronics use.,Austin,2024-04-15,2025-03-17,fair,2.3
+211,Mixing Bowls,Kitchen,A good mixing bowls for kitchen use.,Boston,2024-11-17,2025-11-02,good,2.8
+212,Headphones,Electronics,A excellent headphones for electronics use.,Atlanta,2024-04-24,2025-01-22,excellent,4.1
+213,Microwave,Kitchen,A excellent microwave for kitchen use.,Chicago,2024-02-28,2024-06-06,excellent,3.8
+214,Power Bank,Electronics,A poor power bank for electronics use.,Seattle,2024-01-17,2024-11-15,poor,1.4
+215,Golf Clubs,Sports,A excellent golf clubs for sports use.,Boston,2024-04-17,2024-12-08,good,3.3
+216,Electric Drill,Tools,A good electric drill for tools use.,New York,2024-03-05,2024-05-29,excellent,4.3
+217,Headphones,Electronics,A poor headphones for electronics use.,Seattle,2024-02-15,2024-06-04,excellent,3.5
+218,Wrench Set,Tools,A poor wrench set for tools use.,Denver,2024-05-22,2025-02-03,poor,1.0
+219,Food Processor,Kitchen,A fair food processor for kitchen use.,Chicago,2024-02-10,2024-05-06,excellent,3.3
+220,Harry Potter and the Sorcerer's Stone,Books,A good harry potter and the sorcerer's stone for books use.,Chicago,2024-12-11,2025-06-29,excellent,3.4
+221,Fahrenheit 451,Books,A fair fahrenheit 451 for books use.,Chicago,2024-08-30,2025-01-13,fair,1.8
+222,Jane Eyre,Books,A poor jane eyre for books use.,Denver,2024-08-20,2025-01-15,poor,1.2
+223,Knife Set,Kitchen,A excellent knife set for kitchen use.,Atlanta,2024-12-09,2025-06-25,excellent,4.4
+224,Blender,Kitchen,A poor blender for kitchen use.,Boston,2024-04-08,2024-10-14,new,5.0
+225,Basketball,Sports,A fair basketball for sports use.,Seattle,2024-10-17,2025-08-05,fair,2.2
+226,Golf Clubs,Sports,A fair golf clubs for sports use.,Austin,2024-03-02,2025-02-21,new,5.0
+227,Knife Set,Kitchen,A poor knife set for kitchen use.,Miami,2024-04-12,2024-10-03,poor,1.0
+228,Level,Tools,A new level for tools use.,New York,2024-02-19,2025-02-04,good,3.0
+229,Saw,Tools,A excellent saw for tools use.,Seattle,2024-08-14,2025-05-21,fair,2.1
+230,Moby Dick,Books,A excellent moby dick for books use.,Austin,2024-09-01,2024-12-22,excellent,3.0
+231,Blender,Kitchen,A poor blender for kitchen use.,Los Angeles,2024-11-29,2025-08-30,poor,1.0
+232,Projector,Electronics,A new projector for electronics use.,New York,2024-06-24,2024-11-04,excellent,4.2
+233,Badminton Set,Sports,A excellent badminton set for sports use.,Austin,2024-04-03,2024-12-03,poor,1.0
+234,To Kill a Mockingbird,Books,A fair to kill a mockingbird for books use.,San Francisco,2024-05-23,2024-09-20,good,3.0
+235,Screwdriver Set,Tools,A excellent screwdriver set for tools use.,Chicago,2024-03-01,2024-06-22,fair,1.3
+236,Moby Dick,Books,A good moby dick for books use.,San Francisco,2024-06-20,2024-12-29,fair,2.3
+237,Badminton Set,Sports,A poor badminton set for sports use.,San Francisco,2024-05-09,2024-12-08,excellent,4.4
+238,Golf Clubs,Sports,A good golf clubs for sports use.,Atlanta,2024-06-24,2024-08-19,excellent,3.6
+239,Jane Eyre,Books,A fair jane eyre for books use.,New York,2024-06-11,2024-10-27,poor,1.0
+240,External Hard Drive,Electronics,A fair external hard drive for electronics use.,Chicago,2024-01-08,2024-11-19,poor,1.1
+241,Mixing Bowls,Kitchen,A fair mixing bowls for kitchen use.,New York,2024-01-15,2024-09-04,new,4.6
+242,Basketball,Sports,A fair basketball for sports use.,Miami,2024-01-04,2024-06-19,fair,2.4
+243,1984,Books,A poor 1984 for books use.,Chicago,2024-12-24,2025-03-27,poor,1.0
+244,Knife Set,Kitchen,A good knife set for kitchen use.,Atlanta,2024-03-16,2024-09-19,poor,1.0
+245,Dumbbells,Sports,A excellent dumbbells for sports use.,Austin,2024-01-23,2024-03-15,excellent,3.6
+246,Electric Drill,Tools,A good electric drill for tools use.,Los Angeles,2024-04-15,2025-03-04,good,2.2
+247,Mixing Bowls,Kitchen,A good mixing bowls for kitchen use.,Seattle,2024-03-01,2024-09-12,good,2.7
+248,Pliers,Tools,A poor pliers for tools use.,New York,2024-07-20,2025-04-17,poor,1.4
+249,The Catcher in the Rye,Books,A new the catcher in the rye for books use.,Boston,2024-04-19,2024-12-20,poor,1.0
+250,Power Bank,Electronics,A excellent power bank for electronics use.,Chicago,2024-11-28,2025-09-11,poor,1.0
+251,Moby Dick,Books,A fair moby dick for books use.,New York,2024-01-13,2024-08-26,poor,1.0
+252,Smartphone Charger,Electronics,A fair smartphone charger for electronics use.,Chicago,2024-08-09,2024-11-30,new,4.9
+253,Screwdriver Set,Tools,A good screwdriver set for tools use.,Austin,2024-01-17,2024-11-13,poor,1.0
+254,Microwave,Kitchen,A excellent microwave for kitchen use.,Boston,2024-07-03,2024-10-03,fair,2.0
+255,External Hard Drive,Electronics,A poor external hard drive for electronics use.,Denver,2024-07-02,2025-05-27,excellent,3.6
+256,Bicycle,Sports,A poor bicycle for sports use.,Austin,2024-12-04,2025-01-06,new,4.6
+257,Saw,Tools,A fair saw for tools use.,New York,2024-01-04,2024-05-10,fair,1.1
+258,Frying Pan,Kitchen,A poor frying pan for kitchen use.,Chicago,2024-10-18,2025-05-06,poor,1.0
+259,Mixing Bowls,Kitchen,A fair mixing bowls for kitchen use.,Atlanta,2024-01-29,2024-12-05,new,4.0
+260,External Hard Drive,Electronics,A new external hard drive for electronics use.,New York,2024-05-04,2025-01-13,new,5.0
+261,Frying Pan,Kitchen,A poor frying pan for kitchen use.,Boston,2024-11-29,2025-04-06,poor,1.0
+262,Projector,Electronics,A poor projector for electronics use.,New York,2024-07-11,2025-06-16,excellent,3.7
+263,USB Drive,Electronics,A excellent usb drive for electronics use.,Seattle,2024-06-25,2024-09-16,new,5.0
+264,Food Processor,Kitchen,A poor food processor for kitchen use.,Austin,2024-04-29,2024-08-07,new,4.4
+265,Soccer Ball,Sports,A poor soccer ball for sports use.,San Francisco,2024-05-28,2024-09-06,poor,1.0
+266,Saw,Tools,A poor saw for tools use.,New York,2024-10-01,2025-03-30,new,5.0
+267,USB Drive,Electronics,A good usb drive for electronics use.,San Francisco,2024-05-04,2025-01-11,new,5.0
+268,Frying Pan,Kitchen,A fair frying pan for kitchen use.,Atlanta,2024-06-23,2025-03-10,poor,1.0
+269,Tape Measure,Tools,A good tape measure for tools use.,New York,2024-04-01,2024-10-02,new,5.0
+270,Bicycle,Sports,A fair bicycle for sports use.,Los Angeles,2024-01-20,2024-02-20,good,3.4
+271,Portable Speaker,Electronics,A good portable speaker for electronics use.,Denver,2024-11-12,2025-08-22,poor,1.0
+272,Microwave,Kitchen,A excellent microwave for kitchen use.,Seattle,2024-11-27,2025-03-23,good,2.2
+273,Soccer Ball,Sports,A new soccer ball for sports use.,New York,2024-02-04,2024-09-27,good,2.1
+274,Golf Clubs,Sports,A good golf clubs for sports use.,New York,2024-01-25,2024-07-02,new,5.0
+275,Saw,Tools,A new saw for tools use.,Atlanta,2024-01-01,2024-02-09,poor,1.0
+276,Badminton Set,Sports,A poor badminton set for sports use.,New York,2024-11-13,2025-11-07,new,5.0
+277,Camera,Electronics,A new camera for electronics use.,Denver,2024-07-13,2025-05-29,excellent,3.8
+278,The Great Gatsby,Books,A new the great gatsby for books use.,Chicago,2024-04-16,2025-03-09,fair,1.1
+279,Camera,Electronics,A good camera for electronics use.,San Francisco,2024-11-06,2025-06-14,excellent,3.7
+280,Level,Tools,A good level for tools use.,Miami,2024-05-13,2024-11-07,poor,1.3
+281,Pride and Prejudice,Books,A new pride and prejudice for books use.,Chicago,2024-01-19,2024-06-11,good,3.2
+282,Mixing Bowls,Kitchen,A fair mixing bowls for kitchen use.,Los Angeles,2024-12-13,2025-03-10,new,5.0
+283,Saw,Tools,A new saw for tools use.,Denver,2024-03-03,2024-06-23,fair,1.8
+284,Jane Eyre,Books,A new jane eyre for books use.,Los Angeles,2024-10-16,2025-08-30,good,3.1
+285,1984,Books,A new 1984 for books use.,Miami,2024-07-31,2024-09-29,good,2.8
+286,To Kill a Mockingbird,Books,A new to kill a mockingbird for books use.,Miami,2024-01-26,2024-07-02,new,5.0
+287,Laptop,Electronics,A fair laptop for electronics use.,Los Angeles,2024-04-05,2024-06-17,poor,1.2
+288,Tablet,Electronics,A poor tablet for electronics use.,Seattle,2024-02-27,2024-08-28,fair,1.7
+289,To Kill a Mockingbird,Books,A fair to kill a mockingbird for books use.,Austin,2024-10-05,2025-08-25,poor,1.3
+290,Electric Drill,Tools,A excellent electric drill for tools use.,Los Angeles,2024-09-16,2025-01-01,excellent,4.3
+291,Tablet,Electronics,A new tablet for electronics use.,Miami,2024-04-30,2025-01-27,good,3.0
+292,Electric Kettle,Kitchen,A excellent electric kettle for kitchen use.,New York,2024-04-29,2024-10-05,new,5.0
+293,Tennis Racket,Sports,A good tennis racket for sports use.,Miami,2024-11-06,2025-06-22,new,5.0
+294,External Hard Drive,Electronics,A poor external hard drive for electronics use.,Seattle,2024-10-19,2025-10-04,good,2.4
+295,Blender,Kitchen,A poor blender for kitchen use.,Chicago,2024-03-15,2025-02-13,fair,2.3
+296,Fahrenheit 451,Books,A good fahrenheit 451 for books use.,Los Angeles,2024-11-11,2025-09-03,good,3.3
+297,Electric Kettle,Kitchen,A excellent electric kettle for kitchen use.,San Francisco,2024-01-31,2024-08-10,good,3.3
+298,Fahrenheit 451,Books,A excellent fahrenheit 451 for books use.,Seattle,2024-05-12,2025-03-27,excellent,4.2
+299,Badminton Set,Sports,A good badminton set for sports use.,Boston,2024-03-30,2024-10-08,fair,2.4
+300,Utility Knife,Tools,A fair utility knife for tools use.,Seattle,2024-04-26,2025-02-04,good,2.6
+301,tenis racket,Tools & Equipment,brand yonex,new jersey,2025-09-18,2025-09-19,Excellent,0.0
+302,tenis racket,Tools & Equipment,brand: yonex ,new jersey,2025-09-18,2025-09-19,Good,3.0
+303,soccer shoes,Sports,adidas predator ,Texas,2025-09-18,2025-09-20,Good,4.0

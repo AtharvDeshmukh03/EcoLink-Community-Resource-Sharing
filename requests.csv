@@ -1,0 +1,1001 @@
+request_id,user_name,resource_id,resource_title,start_date,end_date,status
+1,User_3,1,Screwdriver Set,2024-12-18,2025-01-04,requested
+2,User_23,1,Screwdriver Set,2025-01-08,2025-01-19,confirmed
+3,User_26,1,Screwdriver Set,2025-01-04,2025-01-17,requested
+4,User_93,1,Screwdriver Set,2025-01-09,2025-01-14,denied
+5,User_72,1,Screwdriver Set,2024-12-29,2025-01-20,requested
+6,User_33,1,Screwdriver Set,2024-12-25,2025-01-09,requested
+7,User_38,1,Screwdriver Set,2024-11-30,2024-12-18,denied
+8,User_73,2,Saw,2024-03-22,2024-03-26,denied
+9,User_10,2,Saw,2024-04-21,2024-05-02,denied
+10,User_95,2,Saw,2024-04-30,2024-05-05,denied
+11,User_45,2,Saw,2024-03-30,2024-04-28,denied
+12,User_66,2,Saw,2024-04-05,2024-04-25,confirmed
+13,User_66,2,Saw,2024-04-25,2024-05-08,denied
+14,User_3,2,Saw,2024-04-20,2024-04-28,requested
+15,User_94,2,Saw,2024-04-28,2024-05-08,denied
+16,User_35,6,Laptop,2024-06-08,2024-06-13,requested
+17,User_62,6,Laptop,2024-07-24,2024-07-29,confirmed
+18,User_87,6,Laptop,2024-07-01,2024-07-12,requested
+19,User_5,6,Laptop,2024-07-24,2024-07-25,requested
+20,User_21,6,Laptop,2024-06-23,2024-07-21,requested
+21,User_22,6,Laptop,2024-06-26,2024-07-04,requested
+22,User_53,6,Laptop,2024-07-01,2024-07-30,confirmed
+23,User_56,6,Laptop,2024-06-07,2024-06-10,denied
+24,User_94,6,Laptop,2024-06-17,2024-07-03,requested
+25,User_89,7,Fahrenheit 451,2025-08-07,2025-08-12,requested
+26,User_63,7,Fahrenheit 451,2025-08-15,2025-08-16,confirmed
+27,User_82,7,Fahrenheit 451,2025-07-27,2025-08-03,confirmed
+28,User_30,7,Fahrenheit 451,2025-01-31,2025-02-13,requested
+29,User_46,7,Fahrenheit 451,2024-11-19,2024-12-16,requested
+30,User_16,7,Fahrenheit 451,2024-12-27,2024-12-28,requested
+31,User_41,7,Fahrenheit 451,2025-02-19,2025-03-12,confirmed
+32,User_20,7,Fahrenheit 451,2024-11-19,2024-12-06,confirmed
+33,User_99,7,Fahrenheit 451,2025-07-23,2025-07-29,confirmed
+34,User_18,8,Hammer,2024-05-01,2024-05-28,denied
+35,User_59,8,Hammer,2024-03-26,2024-04-23,requested
+36,User_3,8,Hammer,2024-05-09,2024-06-03,denied
+37,User_30,8,Hammer,2024-05-24,2024-06-07,confirmed
+38,User_65,8,Hammer,2024-08-30,2024-09-10,confirmed
+39,User_1,8,Hammer,2024-05-27,2024-06-06,requested
+40,User_92,8,Hammer,2024-07-16,2024-07-30,denied
+41,User_35,8,Hammer,2024-05-01,2024-05-04,denied
+42,User_45,8,Hammer,2024-09-12,2024-09-13,denied
+43,User_34,8,Hammer,2024-04-17,2024-04-19,denied
+44,User_66,10,Jane Eyre,2025-02-05,2025-02-08,confirmed
+45,User_85,10,Jane Eyre,2025-01-15,2025-02-06,denied
+46,User_90,10,Jane Eyre,2025-03-25,2025-03-28,confirmed
+47,User_36,10,Jane Eyre,2025-03-16,2025-04-14,denied
+48,User_2,10,Jane Eyre,2025-01-02,2025-01-05,denied
+49,User_88,10,Jane Eyre,2025-03-26,2025-04-12,denied
+50,User_97,10,Jane Eyre,2025-03-13,2025-03-29,denied
+51,User_85,12,Tennis Racket,2024-09-28,2024-10-06,denied
+52,User_30,12,Tennis Racket,2024-10-02,2024-10-22,confirmed
+53,User_69,13,USB Drive,2024-12-23,2025-01-07,requested
+54,User_83,13,USB Drive,2024-08-28,2024-08-30,requested
+55,User_74,13,USB Drive,2024-08-09,2024-08-11,requested
+56,User_55,15,Running Shoes,2024-02-18,2024-02-26,confirmed
+57,User_76,15,Running Shoes,2024-02-24,2024-03-17,confirmed
+58,User_15,15,Running Shoes,2024-03-17,2024-03-20,requested
+59,User_22,17,External Hard Drive,2025-09-23,2025-10-03,confirmed
+60,User_79,17,External Hard Drive,2025-01-21,2025-02-17,requested
+61,User_76,17,External Hard Drive,2025-09-04,2025-09-23,denied
+62,User_92,17,External Hard Drive,2025-09-29,2025-10-02,requested
+63,User_11,18,Utility Knife,2024-11-22,2024-11-30,confirmed
+64,User_66,18,Utility Knife,2024-10-25,2024-10-27,requested
+65,User_27,18,Utility Knife,2024-11-20,2024-12-14,requested
+66,User_15,18,Utility Knife,2024-10-25,2024-11-17,requested
+67,User_9,18,Utility Knife,2024-11-23,2024-12-11,requested
+68,User_50,18,Utility Knife,2024-11-14,2024-11-29,confirmed
+69,User_40,19,Knife Set,2025-02-20,2025-03-19,confirmed
+70,User_77,19,Knife Set,2025-02-16,2025-03-12,confirmed
+71,User_51,19,Knife Set,2025-03-21,2025-03-25,confirmed
+72,User_8,19,Knife Set,2025-02-08,2025-02-27,denied
+73,User_52,19,Knife Set,2025-03-19,2025-04-07,confirmed
+74,User_43,19,Knife Set,2025-01-23,2025-02-17,confirmed
+75,User_100,21,Running Shoes,2024-12-19,2024-12-29,denied
+76,User_28,21,Running Shoes,2025-02-09,2025-02-12,confirmed
+77,User_39,21,Running Shoes,2025-02-12,2025-02-14,confirmed
+78,User_82,21,Running Shoes,2025-01-11,2025-01-18,requested
+79,User_87,22,Tablet,2024-08-04,2024-08-21,requested
+80,User_80,22,Tablet,2024-12-24,2025-01-18,confirmed
+81,User_8,22,Tablet,2024-11-22,2024-12-20,requested
+82,User_29,23,Basketball,2024-12-08,2024-12-11,requested
+83,User_40,23,Basketball,2024-10-21,2024-11-11,confirmed
+84,User_40,25,The Catcher in the Rye,2024-04-29,2024-05-18,requested
+85,User_40,25,The Catcher in the Rye,2024-03-02,2024-03-29,requested
+86,User_51,25,The Catcher in the Rye,2024-02-23,2024-03-16,requested
+87,User_82,25,The Catcher in the Rye,2024-02-15,2024-02-20,confirmed
+88,User_10,25,The Catcher in the Rye,2024-09-10,2024-09-11,requested
+89,User_24,26,Screwdriver Set,2024-10-06,2024-10-16,confirmed
+90,User_21,26,Screwdriver Set,2024-11-10,2024-12-04,requested
+91,User_57,27,Mixing Bowls,2024-07-16,2024-07-25,requested
+92,User_3,28,Wrench Set,2024-06-25,2024-07-19,denied
+93,User_44,28,Wrench Set,2024-06-07,2024-07-01,requested
+94,User_56,28,Wrench Set,2024-05-06,2024-05-08,requested
+95,User_24,28,Wrench Set,2024-04-03,2024-04-24,denied
+96,User_55,28,Wrench Set,2024-02-14,2024-03-02,denied
+97,User_33,28,Wrench Set,2024-04-10,2024-04-26,denied
+98,User_8,29,The Great Gatsby,2024-06-23,2024-07-07,confirmed
+99,User_91,29,The Great Gatsby,2024-05-27,2024-06-22,confirmed
+100,User_94,29,The Great Gatsby,2024-05-20,2024-05-24,confirmed
+101,User_33,29,The Great Gatsby,2024-04-19,2024-05-06,denied
+102,User_35,29,The Great Gatsby,2024-06-17,2024-06-20,confirmed
+103,User_10,29,The Great Gatsby,2024-03-28,2024-04-07,requested
+104,User_46,29,The Great Gatsby,2024-06-27,2024-07-11,denied
+105,User_26,30,Screwdriver Set,2024-09-03,2024-09-10,denied
+106,User_71,30,Screwdriver Set,2024-06-19,2024-06-29,denied
+107,User_77,30,Screwdriver Set,2024-08-25,2024-09-07,denied
+108,User_32,30,Screwdriver Set,2024-08-04,2024-08-17,denied
+109,User_33,30,Screwdriver Set,2024-08-08,2024-08-22,requested
+110,User_42,30,Screwdriver Set,2024-06-20,2024-06-24,confirmed
+111,User_33,31,Running Shoes,2024-07-15,2024-07-27,requested
+112,User_2,31,Running Shoes,2024-05-18,2024-06-05,confirmed
+113,User_79,31,Running Shoes,2024-05-05,2024-05-11,denied
+114,User_49,31,Running Shoes,2024-05-30,2024-06-22,confirmed
+115,User_33,33,Dumbbells,2025-02-02,2025-02-08,requested
+116,User_92,33,Dumbbells,2024-10-09,2024-11-02,confirmed
+117,User_26,33,Dumbbells,2025-03-23,2025-04-13,confirmed
+118,User_94,33,Dumbbells,2024-09-12,2024-10-04,requested
+119,User_82,36,External Hard Drive,2024-08-27,2024-08-30,denied
+120,User_59,36,External Hard Drive,2025-02-25,2025-03-19,confirmed
+121,User_5,36,External Hard Drive,2025-04-25,2025-04-26,requested
+122,User_74,36,External Hard Drive,2025-02-18,2025-03-14,confirmed
+123,User_75,36,External Hard Drive,2025-04-05,2025-04-18,confirmed
+124,User_36,36,External Hard Drive,2024-09-28,2024-10-21,requested
+125,User_59,36,External Hard Drive,2025-03-15,2025-03-22,confirmed
+126,User_51,37,Fahrenheit 451,2025-04-16,2025-04-24,requested
+127,User_1,37,Fahrenheit 451,2025-03-29,2025-04-24,denied
+128,User_86,37,Fahrenheit 451,2025-06-11,2025-07-07,requested
+129,User_94,37,Fahrenheit 451,2025-05-28,2025-06-17,confirmed
+130,User_30,37,Fahrenheit 451,2025-01-29,2025-02-27,denied
+131,User_54,37,Fahrenheit 451,2024-12-09,2024-12-20,denied
+132,User_58,37,Fahrenheit 451,2025-02-27,2025-03-04,denied
+133,User_57,37,Fahrenheit 451,2025-04-02,2025-04-20,requested
+134,User_51,37,Fahrenheit 451,2024-12-25,2024-12-31,requested
+135,User_84,40,Dumbbells,2025-04-04,2025-04-10,requested
+136,User_49,40,Dumbbells,2025-02-10,2025-02-28,requested
+137,User_88,41,Coffee Maker,2024-04-11,2024-04-24,requested
+138,User_62,41,Coffee Maker,2024-04-27,2024-05-10,denied
+139,User_32,41,Coffee Maker,2024-05-11,2024-05-29,confirmed
+140,User_40,41,Coffee Maker,2024-02-29,2024-03-02,denied
+141,User_34,41,Coffee Maker,2024-04-05,2024-04-19,confirmed
+142,User_67,41,Coffee Maker,2024-04-13,2024-05-06,requested
+143,User_89,43,Pliers,2025-04-10,2025-04-11,requested
+144,User_76,43,Pliers,2025-06-23,2025-06-24,requested
+145,User_74,43,Pliers,2025-05-17,2025-06-05,denied
+146,User_81,43,Pliers,2025-04-04,2025-04-17,confirmed
+147,User_21,43,Pliers,2025-08-17,2025-08-20,denied
+148,User_50,43,Pliers,2025-01-25,2025-01-27,confirmed
+149,User_41,43,Pliers,2025-08-01,2025-08-12,confirmed
+150,User_34,44,Power Bank,2025-01-13,2025-01-21,requested
+151,User_76,44,Power Bank,2024-05-12,2024-06-06,confirmed
+152,User_7,44,Power Bank,2024-08-12,2024-08-29,confirmed
+153,User_52,44,Power Bank,2024-07-08,2024-07-21,requested
+154,User_53,44,Power Bank,2024-10-13,2024-11-11,requested
+155,User_33,44,Power Bank,2024-02-15,2024-02-22,denied
+156,User_51,44,Power Bank,2024-03-31,2024-04-05,requested
+157,User_78,45,Harry Potter and the Sorcerer's Stone,2024-08-13,2024-08-14,requested
+158,User_87,46,Laptop,2024-06-07,2024-06-22,requested
+159,User_71,46,Laptop,2024-03-10,2024-04-08,denied
+160,User_11,46,Laptop,2024-04-29,2024-05-16,confirmed
+161,User_96,46,Laptop,2024-02-02,2024-02-14,denied
+162,User_100,46,Laptop,2024-12-16,2024-12-24,requested
+163,User_100,46,Laptop,2024-07-11,2024-07-14,requested
+164,User_44,46,Laptop,2024-06-01,2024-06-02,confirmed
+165,User_89,46,Laptop,2024-09-29,2024-10-25,confirmed
+166,User_76,46,Laptop,2024-05-16,2024-06-12,requested
+167,User_13,46,Laptop,2024-06-15,2024-06-24,denied
+168,User_27,48,Skateboard,2024-05-12,2024-05-28,requested
+169,User_29,48,Skateboard,2024-06-03,2024-06-06,requested
+170,User_52,48,Skateboard,2024-05-21,2024-05-28,requested
+171,User_77,48,Skateboard,2024-05-11,2024-06-05,requested
+172,User_55,48,Skateboard,2024-05-12,2024-06-05,requested
+173,User_45,48,Skateboard,2024-04-28,2024-04-30,denied
+174,User_38,49,Microwave,2025-04-10,2025-04-12,denied
+175,User_49,49,Microwave,2024-12-16,2024-12-19,denied
+176,User_12,49,Microwave,2025-04-30,2025-05-13,requested
+177,User_43,49,Microwave,2025-03-26,2025-04-03,requested
+178,User_33,49,Microwave,2024-12-18,2025-01-17,confirmed
+179,User_12,49,Microwave,2025-01-28,2025-02-02,denied
+180,User_16,49,Microwave,2025-02-25,2025-03-14,denied
+181,User_97,49,Microwave,2025-04-29,2025-05-02,requested
+182,User_46,49,Microwave,2025-01-22,2025-02-02,requested
+183,User_10,50,Soccer Ball,2025-01-22,2025-01-29,confirmed
+184,User_76,50,Soccer Ball,2025-03-06,2025-03-08,confirmed
+185,User_41,51,The Great Gatsby,2025-01-29,2025-02-16,requested
+186,User_18,51,The Great Gatsby,2024-12-09,2024-12-24,confirmed
+187,User_79,51,The Great Gatsby,2025-02-25,2025-03-13,confirmed
+188,User_49,51,The Great Gatsby,2024-11-02,2024-11-14,confirmed
+189,User_59,52,Yoga Mat,2024-06-22,2024-07-07,denied
+190,User_28,52,Yoga Mat,2024-10-20,2024-10-31,requested
+191,User_41,53,Pliers,2024-04-30,2024-05-20,confirmed
+192,User_82,53,Pliers,2024-02-10,2024-02-12,confirmed
+193,User_60,53,Pliers,2024-02-20,2024-03-07,requested
+194,User_15,54,Jane Eyre,2024-04-25,2024-05-08,confirmed
+195,User_45,54,Jane Eyre,2024-05-20,2024-06-01,requested
+196,User_61,54,Jane Eyre,2024-05-05,2024-05-15,confirmed
+197,User_92,55,Knife Set,2025-01-19,2025-01-25,confirmed
+198,User_20,55,Knife Set,2024-12-23,2025-01-02,confirmed
+199,User_35,55,Knife Set,2024-11-07,2024-11-11,confirmed
+200,User_84,55,Knife Set,2024-04-24,2024-05-05,requested
+201,User_18,55,Knife Set,2024-04-04,2024-05-04,denied
+202,User_60,55,Knife Set,2024-10-20,2024-11-18,confirmed
+203,User_4,55,Knife Set,2024-08-16,2024-08-28,requested
+204,User_3,55,Knife Set,2025-01-13,2025-01-18,denied
+205,User_14,55,Knife Set,2024-05-28,2024-06-22,denied
+206,User_23,56,Badminton Set,2025-04-27,2025-04-28,requested
+207,User_85,56,Badminton Set,2024-10-12,2024-10-16,confirmed
+208,User_93,56,Badminton Set,2025-02-05,2025-02-22,denied
+209,User_19,57,Ladder,2024-12-29,2025-01-07,requested
+210,User_47,57,Ladder,2024-10-26,2024-11-22,confirmed
+211,User_22,57,Ladder,2024-08-24,2024-09-10,confirmed
+212,User_64,57,Ladder,2024-11-03,2024-11-09,denied
+213,User_1,57,Ladder,2024-12-28,2025-01-04,denied
+214,User_30,57,Ladder,2025-02-12,2025-02-20,requested
+215,User_95,57,Ladder,2025-03-12,2025-03-13,denied
+216,User_49,57,Ladder,2024-08-12,2024-08-21,denied
+217,User_90,58,External Hard Drive,2024-11-02,2024-11-12,denied
+218,User_47,58,External Hard Drive,2025-05-12,2025-05-23,requested
+219,User_27,58,External Hard Drive,2024-09-02,2024-09-06,denied
+220,User_72,58,External Hard Drive,2025-06-06,2025-06-09,requested
+221,User_26,58,External Hard Drive,2024-11-16,2024-12-16,requested
+222,User_70,59,Portable Speaker,2024-08-17,2024-08-25,requested
+223,User_57,59,Portable Speaker,2024-11-12,2024-11-17,confirmed
+224,User_31,59,Portable Speaker,2024-07-31,2024-08-25,denied
+225,User_7,59,Portable Speaker,2025-02-10,2025-03-05,denied
+226,User_7,59,Portable Speaker,2025-01-06,2025-02-01,denied
+227,User_19,59,Portable Speaker,2025-02-09,2025-02-15,confirmed
+228,User_4,59,Portable Speaker,2025-01-15,2025-01-23,requested
+229,User_90,59,Portable Speaker,2024-12-13,2025-01-07,denied
+230,User_32,60,External Hard Drive,2024-01-24,2024-02-02,confirmed
+231,User_75,60,External Hard Drive,2024-01-18,2024-02-05,confirmed
+232,User_89,60,External Hard Drive,2024-02-22,2024-02-23,denied
+233,User_52,60,External Hard Drive,2024-02-06,2024-02-18,denied
+234,User_28,60,External Hard Drive,2024-01-15,2024-01-16,denied
+235,User_29,60,External Hard Drive,2024-02-18,2024-02-22,denied
+236,User_61,60,External Hard Drive,2024-01-14,2024-01-27,denied
+237,User_53,61,Screwdriver Set,2024-09-11,2024-09-26,requested
+238,User_93,61,Screwdriver Set,2024-06-04,2024-06-06,denied
+239,User_69,64,The Catcher in the Rye,2024-12-27,2025-01-10,requested
+240,User_47,64,The Catcher in the Rye,2024-11-30,2024-12-29,requested
+241,User_50,64,The Catcher in the Rye,2025-01-07,2025-01-26,requested
+242,User_83,66,Coffee Maker,2024-08-28,2024-09-11,requested
+243,User_36,66,Coffee Maker,2024-10-31,2024-11-28,requested
+244,User_52,66,Coffee Maker,2024-10-01,2024-10-13,denied
+245,User_39,66,Coffee Maker,2024-09-19,2024-10-05,confirmed
+246,User_84,66,Coffee Maker,2024-08-23,2024-08-25,denied
+247,User_43,67,The Great Gatsby,2024-03-09,2024-04-06,denied
+248,User_91,67,The Great Gatsby,2024-03-19,2024-04-10,confirmed
+249,User_39,67,The Great Gatsby,2024-04-02,2024-04-08,requested
+250,User_96,67,The Great Gatsby,2024-03-06,2024-03-14,denied
+251,User_33,67,The Great Gatsby,2024-07-08,2024-07-26,confirmed
+252,User_50,67,The Great Gatsby,2024-06-06,2024-06-09,confirmed
+253,User_37,68,The Great Gatsby,2024-09-21,2024-10-02,confirmed
+254,User_74,68,The Great Gatsby,2025-04-25,2025-04-27,confirmed
+255,User_86,68,The Great Gatsby,2025-04-11,2025-04-16,denied
+256,User_28,68,The Great Gatsby,2024-08-01,2024-08-20,denied
+257,User_21,68,The Great Gatsby,2024-06-17,2024-06-27,confirmed
+258,User_63,68,The Great Gatsby,2024-09-24,2024-10-03,denied
+259,User_26,68,The Great Gatsby,2025-04-24,2025-05-01,requested
+260,User_94,69,The Hobbit,2024-03-19,2024-03-20,requested
+261,User_46,69,The Hobbit,2024-03-03,2024-03-18,confirmed
+262,User_80,70,Level,2024-12-26,2025-01-13,denied
+263,User_29,70,Level,2025-06-29,2025-07-12,requested
+264,User_97,71,The Great Gatsby,2025-02-20,2025-03-21,confirmed
+265,User_40,71,The Great Gatsby,2024-12-09,2024-12-22,confirmed
+266,User_70,71,The Great Gatsby,2025-01-29,2025-02-23,requested
+267,User_19,71,The Great Gatsby,2025-01-31,2025-02-28,confirmed
+268,User_33,72,Fahrenheit 451,2024-04-10,2024-04-30,requested
+269,User_39,72,Fahrenheit 451,2024-01-20,2024-02-17,confirmed
+270,User_11,72,Fahrenheit 451,2024-07-07,2024-07-09,requested
+271,User_96,72,Fahrenheit 451,2024-05-01,2024-05-22,confirmed
+272,User_5,74,Utility Knife,2024-03-31,2024-04-23,requested
+273,User_86,74,Utility Knife,2024-05-29,2024-05-30,confirmed
+274,User_93,74,Utility Knife,2024-05-02,2024-05-13,confirmed
+275,User_68,74,Utility Knife,2024-03-25,2024-04-20,confirmed
+276,User_50,74,Utility Knife,2024-05-19,2024-05-30,confirmed
+277,User_41,74,Utility Knife,2024-05-11,2024-05-22,confirmed
+278,User_20,75,Badminton Set,2024-06-11,2024-06-26,confirmed
+279,User_36,75,Badminton Set,2024-11-11,2024-11-12,requested
+280,User_12,75,Badminton Set,2024-07-12,2024-07-24,confirmed
+281,User_97,75,Badminton Set,2024-10-03,2024-11-08,denied
+282,User_75,75,Badminton Set,2024-05-29,2024-06-20,denied
+283,User_1,75,Badminton Set,2024-10-04,2024-11-13,confirmed
+284,User_25,76,Dumbbells,2024-01-20,2024-01-31,requested
+285,User_18,78,Electric Kettle,2024-11-06,2024-11-26,confirmed
+286,User_67,79,Portable Speaker,2024-06-15,2024-07-03,requested
+287,User_45,79,Portable Speaker,2024-08-12,2024-08-17,requested
+288,User_37,79,Portable Speaker,2024-05-13,2024-06-06,confirmed
+289,User_93,79,Portable Speaker,2024-01-24,2024-02-17,requested
+290,User_4,79,Portable Speaker,2024-08-02,2024-08-25,denied
+291,User_63,79,Portable Speaker,2024-07-07,2024-07-21,confirmed
+292,User_6,81,Electric Drill,2024-04-10,2024-04-19,requested
+293,User_81,81,Electric Drill,2024-03-24,2024-04-12,denied
+294,User_77,81,Electric Drill,2024-06-06,2024-07-02,denied
+295,User_43,81,Electric Drill,2024-02-15,2024-02-18,confirmed
+296,User_74,83,Tennis Racket,2024-07-16,2024-07-19,denied
+297,User_74,84,Basketball,2024-09-12,2024-09-25,denied
+298,User_11,84,Basketball,2024-08-24,2024-08-27,confirmed
+299,User_18,84,Basketball,2024-09-17,2024-09-19,requested
+300,User_27,84,Basketball,2024-08-30,2024-08-31,denied
+301,User_89,84,Basketball,2024-08-17,2024-09-04,requested
+302,User_33,84,Basketball,2024-09-03,2024-09-09,confirmed
+303,User_98,84,Basketball,2024-09-08,2024-09-18,denied
+304,User_43,84,Basketball,2024-09-08,2024-09-18,denied
+305,User_75,85,Mixing Bowls,2025-02-01,2025-02-24,denied
+306,User_22,85,Mixing Bowls,2025-03-16,2025-04-14,requested
+307,User_70,85,Mixing Bowls,2025-03-19,2025-04-12,confirmed
+308,User_33,85,Mixing Bowls,2024-12-22,2025-01-05,denied
+309,User_97,85,Mixing Bowls,2025-03-11,2025-03-18,denied
+310,User_97,85,Mixing Bowls,2024-08-18,2024-08-22,confirmed
+311,User_4,85,Mixing Bowls,2025-01-17,2025-01-30,requested
+312,User_84,85,Mixing Bowls,2024-11-15,2024-11-23,confirmed
+313,User_84,85,Mixing Bowls,2024-12-08,2025-01-04,confirmed
+314,User_51,86,USB Drive,2024-11-11,2024-11-15,confirmed
+315,User_42,87,Electric Drill,2024-04-20,2024-05-08,requested
+316,User_74,87,Electric Drill,2024-06-08,2024-06-14,confirmed
+317,User_10,87,Electric Drill,2024-04-24,2024-05-09,confirmed
+318,User_67,87,Electric Drill,2024-06-03,2024-06-06,requested
+319,User_9,87,Electric Drill,2024-06-16,2024-06-25,denied
+320,User_90,87,Electric Drill,2024-06-12,2024-06-25,denied
+321,User_22,87,Electric Drill,2024-06-06,2024-06-08,denied
+322,User_72,88,Microwave,2025-03-16,2025-04-10,requested
+323,User_67,88,Microwave,2025-01-02,2025-01-11,confirmed
+324,User_76,88,Microwave,2025-04-03,2025-04-12,confirmed
+325,User_36,88,Microwave,2025-01-22,2025-02-18,confirmed
+326,User_73,88,Microwave,2025-07-14,2025-07-17,denied
+327,User_32,88,Microwave,2025-04-12,2025-04-24,denied
+328,User_6,88,Microwave,2024-11-10,2024-11-29,requested
+329,User_27,88,Microwave,2025-04-21,2025-05-08,denied
+330,User_21,88,Microwave,2025-06-05,2025-06-26,requested
+331,User_9,89,Tennis Racket,2024-10-06,2024-10-08,denied
+332,User_60,89,Tennis Racket,2024-10-02,2024-10-22,confirmed
+333,User_87,89,Tennis Racket,2024-10-19,2024-11-02,requested
+334,User_37,90,Electric Drill,2024-08-04,2024-08-25,denied
+335,User_71,90,Electric Drill,2024-10-30,2024-11-22,requested
+336,User_70,90,Electric Drill,2025-03-23,2025-03-26,denied
+337,User_95,91,Level,2025-03-26,2025-04-09,denied
+338,User_31,91,Level,2024-11-26,2024-12-26,denied
+339,User_56,95,Fahrenheit 451,2024-03-20,2024-03-28,confirmed
+340,User_5,95,Fahrenheit 451,2024-06-06,2024-06-21,denied
+341,User_27,95,Fahrenheit 451,2024-03-19,2024-03-22,confirmed
+342,User_97,95,Fahrenheit 451,2024-06-09,2024-06-22,denied
+343,User_78,95,Fahrenheit 451,2024-03-11,2024-03-30,confirmed
+344,User_31,95,Fahrenheit 451,2024-04-05,2024-04-10,denied
+345,User_17,95,Fahrenheit 451,2024-04-30,2024-05-13,denied
+346,User_79,95,Fahrenheit 451,2024-05-06,2024-05-10,requested
+347,User_30,96,Headphones,2025-04-29,2025-05-03,confirmed
+348,User_19,96,Headphones,2025-01-15,2025-02-06,confirmed
+349,User_64,96,Headphones,2025-03-28,2025-03-31,confirmed
+350,User_4,96,Headphones,2024-12-31,2025-01-12,confirmed
+351,User_77,96,Headphones,2025-01-01,2025-01-14,denied
+352,User_51,96,Headphones,2025-01-23,2025-02-03,denied
+353,User_33,96,Headphones,2025-01-30,2025-03-01,denied
+354,User_30,96,Headphones,2025-01-01,2025-01-14,requested
+355,User_92,97,External Hard Drive,2025-03-29,2025-04-13,confirmed
+356,User_48,97,External Hard Drive,2025-04-28,2025-05-01,denied
+357,User_87,97,External Hard Drive,2024-11-13,2024-12-04,confirmed
+358,User_36,100,Blender,2024-09-10,2024-09-14,denied
+359,User_61,100,Blender,2024-10-21,2024-11-05,confirmed
+360,User_59,100,Blender,2024-11-07,2024-11-20,confirmed
+361,User_14,100,Blender,2024-08-08,2024-09-01,confirmed
+362,User_80,100,Blender,2024-07-29,2024-08-21,denied
+363,User_55,100,Blender,2024-10-30,2024-11-17,denied
+364,User_4,100,Blender,2024-12-04,2024-12-06,requested
+365,User_37,100,Blender,2024-06-17,2024-07-12,denied
+366,User_63,100,Blender,2024-06-08,2024-06-22,denied
+367,User_24,103,Tennis Racket,2024-05-12,2024-05-19,requested
+368,User_100,103,Tennis Racket,2024-05-28,2024-05-31,requested
+369,User_49,103,Tennis Racket,2024-02-02,2024-02-05,confirmed
+370,User_33,103,Tennis Racket,2024-06-03,2024-06-25,denied
+371,User_55,103,Tennis Racket,2024-06-19,2024-06-21,denied
+372,User_72,103,Tennis Racket,2024-05-15,2024-05-20,confirmed
+373,User_67,103,Tennis Racket,2024-02-24,2024-03-04,denied
+374,User_6,103,Tennis Racket,2024-04-26,2024-05-08,requested
+375,User_36,104,Yoga Mat,2024-03-17,2024-04-15,requested
+376,User_30,104,Yoga Mat,2024-03-08,2024-04-05,requested
+377,User_86,104,Yoga Mat,2024-05-12,2024-05-19,requested
+378,User_43,104,Yoga Mat,2024-05-09,2024-05-10,requested
+379,User_42,105,Harry Potter and the Sorcerer's Stone,2024-08-29,2024-09-07,requested
+380,User_66,105,Harry Potter and the Sorcerer's Stone,2024-07-22,2024-08-09,denied
+381,User_30,105,Harry Potter and the Sorcerer's Stone,2024-07-20,2024-07-30,denied
+382,User_86,105,Harry Potter and the Sorcerer's Stone,2024-09-10,2024-09-20,confirmed
+383,User_12,105,Harry Potter and the Sorcerer's Stone,2024-12-03,2025-01-01,confirmed
+384,User_95,106,Wrench Set,2025-04-07,2025-04-25,denied
+385,User_5,106,Wrench Set,2025-04-04,2025-04-23,confirmed
+386,User_29,106,Wrench Set,2025-03-25,2025-04-02,confirmed
+387,User_77,106,Wrench Set,2024-11-22,2024-12-22,confirmed
+388,User_33,106,Wrench Set,2025-08-16,2025-08-29,requested
+389,User_53,106,Wrench Set,2025-05-05,2025-06-01,denied
+390,User_83,106,Wrench Set,2025-07-21,2025-08-19,requested
+391,User_24,106,Wrench Set,2025-06-15,2025-06-18,denied
+392,User_24,107,USB Drive,2024-12-27,2025-01-14,confirmed
+393,User_13,107,USB Drive,2025-01-05,2025-01-24,confirmed
+394,User_26,107,USB Drive,2025-05-29,2025-06-01,requested
+395,User_56,107,USB Drive,2024-12-21,2024-12-28,requested
+396,User_100,107,USB Drive,2024-09-03,2024-09-07,confirmed
+397,User_59,107,USB Drive,2025-05-14,2025-05-31,requested
+398,User_18,107,USB Drive,2024-10-27,2024-11-14,denied
+399,User_37,107,USB Drive,2024-09-16,2024-10-13,confirmed
+400,User_55,108,Camera,2025-05-03,2025-05-30,confirmed
+401,User_52,108,Camera,2025-03-11,2025-03-29,confirmed
+402,User_18,108,Camera,2025-01-31,2025-02-09,requested
+403,User_66,108,Camera,2025-05-17,2025-05-24,confirmed
+404,User_60,108,Camera,2025-02-04,2025-02-18,requested
+405,User_78,108,Camera,2025-06-15,2025-06-17,requested
+406,User_16,108,Camera,2024-09-13,2024-09-16,denied
+407,User_58,108,Camera,2024-11-29,2024-12-20,confirmed
+408,User_84,108,Camera,2025-04-11,2025-04-22,requested
+409,User_21,109,Smartphone Charger,2024-08-03,2024-08-20,denied
+410,User_43,109,Smartphone Charger,2024-09-09,2024-09-20,requested
+411,User_66,109,Smartphone Charger,2024-09-14,2024-09-19,requested
+412,User_11,110,Screwdriver Set,2025-01-01,2025-01-25,confirmed
+413,User_81,111,Smartphone Charger,2025-02-12,2025-02-16,confirmed
+414,User_59,111,Smartphone Charger,2025-04-02,2025-04-06,requested
+415,User_24,112,Food Processor,2024-03-15,2024-04-09,requested
+416,User_93,112,Food Processor,2024-07-14,2024-07-20,confirmed
+417,User_66,112,Food Processor,2024-04-10,2024-04-30,denied
+418,User_92,112,Food Processor,2024-07-05,2024-07-31,confirmed
+419,User_1,112,Food Processor,2024-04-02,2024-04-14,requested
+420,User_22,112,Food Processor,2024-04-08,2024-05-04,denied
+421,User_28,112,Food Processor,2024-08-27,2024-09-05,requested
+422,User_61,112,Food Processor,2024-04-10,2024-04-22,confirmed
+423,User_31,112,Food Processor,2024-07-12,2024-08-07,denied
+424,User_94,112,Food Processor,2024-07-17,2024-08-14,requested
+425,User_31,114,Camera,2024-03-07,2024-03-20,requested
+426,User_58,114,Camera,2024-03-25,2024-04-16,denied
+427,User_68,114,Camera,2024-03-13,2024-03-23,denied
+428,User_52,115,Smartphone Charger,2024-02-02,2024-02-16,requested
+429,User_87,115,Smartphone Charger,2024-02-01,2024-02-19,requested
+430,User_37,116,Camera,2024-12-12,2024-12-21,denied
+431,User_12,117,Saw,2024-12-14,2025-01-11,denied
+432,User_59,117,Saw,2024-12-21,2025-01-03,confirmed
+433,User_60,117,Saw,2024-11-02,2024-11-17,requested
+434,User_19,117,Saw,2025-03-04,2025-03-27,requested
+435,User_56,117,Saw,2025-04-24,2025-05-16,denied
+436,User_1,117,Saw,2025-04-10,2025-05-07,denied
+437,User_99,117,Saw,2025-03-19,2025-04-14,requested
+438,User_71,117,Saw,2025-02-18,2025-03-09,requested
+439,User_18,119,Hammer,2025-01-09,2025-01-20,requested
+440,User_1,119,Hammer,2024-12-20,2025-01-05,confirmed
+441,User_20,119,Hammer,2025-05-29,2025-06-24,confirmed
+442,User_81,119,Hammer,2025-05-14,2025-06-06,confirmed
+443,User_98,119,Hammer,2025-03-13,2025-03-18,requested
+444,User_12,119,Hammer,2024-12-17,2024-12-29,confirmed
+445,User_24,119,Hammer,2025-06-12,2025-06-16,denied
+446,User_43,119,Hammer,2025-05-21,2025-06-06,confirmed
+447,User_24,119,Hammer,2025-03-02,2025-03-23,requested
+448,User_66,120,Ladder,2025-03-28,2025-04-02,requested
+449,User_9,121,Tape Measure,2024-08-10,2024-08-19,confirmed
+450,User_73,121,Tape Measure,2024-10-06,2024-10-14,denied
+451,User_100,121,Tape Measure,2024-09-23,2024-10-11,denied
+452,User_59,121,Tape Measure,2024-10-12,2024-10-28,requested
+453,User_33,121,Tape Measure,2024-09-27,2024-10-12,requested
+454,User_24,121,Tape Measure,2024-11-22,2024-12-01,denied
+455,User_84,121,Tape Measure,2024-10-09,2024-11-01,denied
+456,User_24,121,Tape Measure,2024-12-03,2024-12-08,denied
+457,User_59,121,Tape Measure,2024-10-12,2024-10-14,requested
+458,User_73,122,Ladder,2025-06-12,2025-06-19,confirmed
+459,User_2,122,Ladder,2025-11-02,2025-11-07,requested
+460,User_67,122,Ladder,2025-05-01,2025-05-23,confirmed
+461,User_52,122,Ladder,2025-03-15,2025-03-20,denied
+462,User_74,122,Ladder,2025-11-03,2025-11-09,confirmed
+463,User_42,122,Ladder,2025-08-13,2025-09-01,requested
+464,User_60,122,Ladder,2025-07-09,2025-07-12,denied
+465,User_83,122,Ladder,2025-10-03,2025-10-27,denied
+466,User_48,123,Running Shoes,2024-08-29,2024-09-13,requested
+467,User_17,123,Running Shoes,2024-08-17,2024-08-30,requested
+468,User_22,123,Running Shoes,2024-11-27,2024-12-22,denied
+469,User_2,124,Level,2024-06-14,2024-07-04,denied
+470,User_12,124,Level,2024-07-17,2024-07-19,requested
+471,User_79,124,Level,2024-05-28,2024-06-07,confirmed
+472,User_93,124,Level,2024-07-09,2024-07-16,requested
+473,User_33,124,Level,2024-06-03,2024-06-08,confirmed
+474,User_16,124,Level,2024-06-08,2024-06-25,denied
+475,User_15,124,Level,2024-06-27,2024-07-12,confirmed
+476,User_29,124,Level,2024-07-11,2024-07-24,confirmed
+477,User_3,124,Level,2024-06-02,2024-06-18,denied
+478,User_73,124,Level,2024-07-01,2024-07-13,confirmed
+479,User_90,125,Blender,2024-08-22,2024-09-13,requested
+480,User_47,125,Blender,2024-10-29,2024-11-09,denied
+481,User_4,125,Blender,2024-10-27,2024-10-29,confirmed
+482,User_28,125,Blender,2024-12-04,2024-12-06,requested
+483,User_83,125,Blender,2024-06-28,2024-07-12,denied
+484,User_55,125,Blender,2024-10-30,2024-11-17,denied
+485,User_13,126,Soccer Ball,2024-12-22,2024-12-29,requested
+486,User_37,126,Soccer Ball,2025-01-17,2025-01-22,requested
+487,User_77,126,Soccer Ball,2025-01-26,2025-02-05,requested
+488,User_18,126,Soccer Ball,2025-01-31,2025-02-02,denied
+489,User_58,126,Soccer Ball,2024-12-20,2025-01-13,confirmed
+490,User_41,126,Soccer Ball,2025-01-02,2025-02-29,denied
+491,User_33,126,Soccer Ball,2025-01-20,2025-02-10,denied
+492,User_33,126,Soccer Ball,2024-12-12,2025-01-05,requested
+493,User_83,126,Soccer Ball,2024-12-12,2025-01-05,requested
+494,User_73,127,Camera,2024-05-03,2024-05-17,requested
+495,User_8,127,Camera,2024-05-27,2024-05-31,denied
+496,User_73,127,Camera,2024-05-29,2024-06-01,denied
+497,User_59,127,Camera,2024-07-29,2024-07-31,requested
+498,User_94,127,Camera,2024-04-13,2024-04-20,requested
+499,User_56,127,Camera,2024-08-14,2024-08-18,requested
+500,User_33,127,Camera,2024-04-10,2024-04-20,denied
+501,User_46,128,Harry Potter and the Sorcerer's Stone,2024-03-20,2024-03-25,requested
+502,User_17,128,Harry Potter and the Sorcerer's Stone,2024-03-25,2024-04-01,confirmed
+503,User_9,128,Harry Potter and the Sorcerer's Stone,2024-04-18,2024-05-09,denied
+504,User_5,128,Harry Potter and the Sorcerer's Stone,2024-05-21,2024-06-12,confirmed
+505,User_23,128,Harry Potter and the Sorcerer's Stone,2024-04-16,2024-04-20,requested
+506,User_33,128,Harry Potter and the Sorcerer's Stone,2024-05-16,2024-05-21,denied
+507,User_33,128,Harry Potter and the Sorcerer's Stone,2024-05-16,2024-05-21,denied
+508,User_76,128,Harry Potter and the Sorcerer's Stone,2024-04-11,2024-05-04,denied
+509,User_46,128,Harry Potter and the Sorcerer's Stone,2024-03-01,2024-03-31,requested
+510,User_33,129,The Catcher in the Rye,2024-06-04,2024-07-01,confirmed
+511,User_76,129,The Catcher in the Rye,2024-07-22,2024-08-21,denied
+512,User_30,130,Electric Kettle,2024-09-05,2024-09-20,confirmed
+513,User_79,130,Electric Kettle,2024-08-30,2024-09-17,denied
+514,User_93,130,Electric Kettle,2024-10-10,2024-10-30,requested
+515,User_14,130,Electric Kettle,2024-10-31,2024-11-04,confirmed
+516,User_89,131,Electric Kettle,2024-04-18,2024-04-21,confirmed
+517,User_88,131,Electric Kettle,2024-04-18,2024-04-27,confirmed
+518,User_57,131,Electric Kettle,2024-08-09,2024-08-11,denied
+519,User_32,131,Electric Kettle,2024-07-06,2024-08-03,requested
+520,User_70,131,Electric Kettle,2024-07-26,2024-08-22,denied
+521,User_9,132,Wrench Set,2024-11-30,2024-12-10,confirmed
+522,User_25,134,Fahrenheit 451,2025-03-16,2025-04-05,requested
+523,User_79,134,Fahrenheit 451,2025-03-28,2025-04-07,confirmed
+524,User_22,134,Fahrenheit 451,2025-02-21,2025-03-20,requested
+525,User_50,134,Fahrenheit 451,2024-12-23,2025-01-08,confirmed
+526,User_95,134,Fahrenheit 451,2025-03-20,2025-03-29,denied
+527,User_29,134,Fahrenheit 451,2024-12-11,2024-12-21,requested
+528,User_39,134,Fahrenheit 451,2024-12-15,2025-01-06,denied
+529,User_72,135,Portable Speaker,2024-12-07,2024-12-24,requested
+530,User_85,135,Portable Speaker,2024-11-04,2024-11-22,requested
+531,User_4,135,Portable Speaker,2024-11-16,2024-12-11,denied
+532,User_3,135,Portable Speaker,2024-12-15,2024-12-18,confirmed
+533,User_27,135,Portable Speaker,2024-11-21,2024-12-14,denied
+534,User_97,135,Portable Speaker,2024-12-15,2024-12-18,requested
+535,User_2,135,Portable Speaker,2024-11-08,2024-11-11,requested
+536,User_98,136,Pliers,2024-04-08,2024-05-06,denied
+537,User_63,136,Pliers,2024-04-13,2024-05-12,confirmed
+538,User_37,136,Pliers,2024-05-04,2024-05-08,denied
+539,User_7,136,Pliers,2024-03-13,2024-03-29,denied
+540,User_14,136,Pliers,2024-04-27,2024-05-22,confirmed
+541,User_82,136,Pliers,2024-04-14,2024-05-02,denied
+542,User_32,136,Pliers,2024-03-19,2024-04-13,confirmed
+543,User_66,136,Pliers,2024-05-06,2024-05-18,denied
+544,User_10,137,Slow Cooker,2024-09-23,2024-10-10,confirmed
+545,User_57,137,Slow Cooker,2025-04-18,2025-04-22,requested
+546,User_34,137,Slow Cooker,2024-09-23,2024-10-10,requested
+547,User_8,137,Slow Cooker,2024-10-16,2024-10-19,requested
+548,User_14,137,Slow Cooker,2025-03-26,2025-04-09,confirmed
+549,User_100,137,Slow Cooker,2024-09-14,2024-10-04,confirmed
+550,User_91,137,Slow Cooker,2024-07-06,2024-07-31,requested
+551,User_9,137,Slow Cooker,2024-12-24,2025-01-02,confirmed
+552,User_17,137,Slow Cooker,2024-07-17,2024-07-27,confirmed
+553,User_6,139,Basketball,2025-02-01,2025-02-26,requested
+554,User_84,140,Wrench Set,2025-03-05,2025-03-29,requested
+555,User_37,141,Skateboard,2024-06-06,2024-06-26,requested
+556,User_75,142,Coffee Maker,2024-09-25,2024-09-29,denied
+557,User_90,142,Coffee Maker,2024-10-22,2024-11-21,denied
+558,User_45,142,Coffee Maker,2025-01-22,2025-01-28,denied
+559,User_22,142,Coffee Maker,2024-12-06,2024-12-27,confirmed
+560,User_18,142,Coffee Maker,2024-09-11,2024-10-08,confirmed
+561,User_11,142,Coffee Maker,2024-10-11,2024-11-05,requested
+562,User_59,142,Coffee Maker,2024-12-29,2025-01-23,requested
+563,User_72,142,Coffee Maker,2025-01-23,2025-02-06,confirmed
+564,User_24,143,Coffee Maker,2024-09-09,2024-09-25,denied
+565,User_78,143,Coffee Maker,2024-09-08,2024-09-19,confirmed
+566,User_6,143,Coffee Maker,2024-07-10,2024-07-17,requested
+567,User_98,143,Coffee Maker,2024-07-24,2024-08-03,denied
+568,User_4,143,Coffee Maker,2024-06-21,2024-07-08,denied
+569,User_50,143,Coffee Maker,2024-08-26,2024-09-10,confirmed
+570,User_33,143,Coffee Maker,2024-09-23,2024-09-24,requested
+571,User_24,143,Coffee Maker,2024-07-04,2024-07-28,requested
+572,User_24,143,Coffee Maker,2024-08-05,2024-08-12,requested
+573,User_90,144,Camera,2024-04-05,2024-05-03,denied
+574,User_12,145,Skateboard,2024-11-02,2024-11-03,confirmed
+575,User_61,145,Skateboard,2024-10-03,2024-10-16,denied
+576,User_85,145,Skateboard,2024-10-19,2024-11-02,requested
+577,User_33,145,Skateboard,2024-10-03,2024-10-11,requested
+578,User_33,145,Skateboard,2024-12-29,2024-12-30,requested
+579,User_53,145,Skateboard,2024-11-16,2024-12-06,requested
+580,User_33,145,Skateboard,2024-09-06,2024-09-23,requested
+581,User_22,145,Skateboard,2024-10-28,2024-11-08,confirmed
+582,User_75,145,Skateboard,2024-10-01,2024-10-28,requested
+583,User_37,146,Harry Potter and the Sorcerer's Stone,2024-10-04,2024-10-31,requested
+584,User_31,146,Harry Potter and the Sorcerer's Stone,2024-10-29,2024-11-20,confirmed
+585,User_78,146,Harry Potter and the Sorcerer's Stone,2024-10-05,2024-11-01,confirmed
+586,User_84,146,Harry Potter and the Sorcerer's Stone,2024-11-05,2024-11-07,denied
+587,User_33,146,Harry Potter and the Sorcerer's Stone,2024-10-06,2024-11-21,confirmed
+588,User_61,146,Harry Potter and the Sorcerer's Stone,2024-09-09,2024-09-28,requested
+589,User_97,146,Harry Potter and the Sorcerer's Stone,2024-12-16,2024-12-18,denied
+590,User_38,147,1984,2024-06-01,2024-06-22,confirmed
+591,User_37,147,1984,2024-08-21,2024-09-14,requested
+592,User_10,147,1984,2024-07-17,2024-08-08,requested
+593,User_81,147,1984,2024-06-21,2024-07-09,confirmed
+594,User_20,147,1984,2024-05-23,2024-06-11,denied
+595,User_28,147,1984,2024-04-10,2024-05-04,denied
+596,User_76,147,1984,2024-04-14,2024-05-12,denied
+597,User_90,147,1984,2024-06-03,2024-06-03,denied
+598,User_42,147,1984,2024-06-01,2024-06-22,requested
+599,User_28,148,Microwave,2024-09-23,2024-10-15,requested
+600,User_37,148,Microwave,2024-10-21,2024-11-05,confirmed
+601,User_24,148,Microwave,2024-11-07,2024-11-20,confirmed
+602,User_14,148,Microwave,2024-08-08,2024-09-01,confirmed
+603,User_80,148,Microwave,2024-07-29,2024-08-21,denied
+604,User_55,148,Microwave,2024-10-30,2024-11-17,denied
+605,User_4,148,Microwave,2024-12-04,2024-12-06,requested
+606,User_37,148,Microwave,2024-06-17,2024-07-12,denied
+607,User_63,148,Microwave,2024-06-08,2024-06-22,denied
+608,User_24,149,Golf Clubs,2024-11-27,2024-11-28,confirmed
+609,User_84,149,Golf Clubs,2024-11-04,2024-11-17,requested
+610,User_62,149,Golf Clubs,2024-09-21,2024-09-28,requested
+611,User_98,149,Golf Clubs,2024-09-14,2024-09-24,confirmed
+612,User_28,149,Golf Clubs,2024-08-09,2024-09-02,denied
+613,User_58,150,Portable Speaker,2024-12-16,2025-01-18,denied
+614,User_39,150,Portable Speaker,2025-01-11,2025-01-12,confirmed
+615,User_43,150,Portable Speaker,2025-01-31,2025-02-24,denied
+616,User_43,150,Portable Speaker,2025-01-31,2025-02-24,denied
+617,User_18,150,Portable Speaker,2025-01-31,2025-02-02,denied
+618,User_24,150,Portable Speaker,2025-01-26,2025-02-05,requested
+619,User_18,150,Portable Speaker,2025-01-31,2025-02-02,denied
+620,User_33,151,Coffee Maker,2025-06-08,2025-06-27,confirmed
+621,User_70,151,Coffee Maker,2025-03-08,2025-03-28,requested
+622,User_21,151,Coffee Maker,2025-07-09,2025-07-13,confirmed
+623,User_25,152,Hammer,2024-04-09,2024-04-28,requested
+624,User_3,152,Hammer,2024-06-17,2024-06-23,denied
+625,User_10,152,Hammer,2024-06-01,2024-06-26,requested
+626,User_61,152,Hammer,2024-04-10,2024-05-03,confirmed
+627,User_77,152,Hammer,2024-08-02,2024-08-16,denied
+628,User_84,152,Hammer,2024-05-30,2024-06-28,confirmed
+629,User_48,152,Hammer,2024-04-10,2024-05-06,denied
+630,User_91,152,Hammer,2024-05-30,2024-06-26,denied
+631,User_91,152,Hammer,2024-08-13,2024-08-19,requested
+632,User_4,152,Hammer,2024-04-28,2024-05-06,denied
+633,User_37,153,Dumbbells,2024-12-28,2025-01-19,confirmed
+634,User_17,153,Dumbbells,2024-10-07,2024-11-05,denied
+635,User_78,153,Dumbbells,2024-11-17,2024-12-06,requested
+636,User_26,153,Dumbbells,2024-11-24,2024-11-25,confirmed
+637,User_56,154,Basketball,2024-05-15,2024-05-24,denied
+638,User_23,154,Basketball,2024-07-07,2024-07-13,confirmed
+639,User_51,155,Level,2025-03-09,2025-03-26,confirmed
+640,User_6,155,Level,2024-11-27,2024-12-25,confirmed
+641,User_64,155,Level,2025-01-27,2025-02-25,denied
+642,User_88,155,Level,2024-10-01,2024-10-13,confirmed
+643,User_38,156,Projector,2024-07-31,2024-08-14,requested
+644,User_45,156,Projector,2024-09-03,2024-09-19,denied
+645,User_75,156,Projector,2024-11-06,2024-12-01,denied
+646,User_37,156,Projector,2024-10-17,2024-10-24,confirmed
+647,User_81,156,Projector,2024-10-19,2024-11-15,requested
+648,User_95,159,Tennis Racket,2024-03-23,2024-04-10,confirmed
+649,User_42,159,Tennis Racket,2024-03-08,2024-03-17,denied
+650,User_10,159,Tennis Racket,2024-02-10,2024-02-28,requested
+651,User_71,159,Tennis Racket,2024-06-04,2024-06-08,requested
+652,User_10,159,Tennis Racket,2024-06-04,2024-06-08,requested
+653,User_70,159,Tennis Racket,2024-06-20,2024-06-28,confirmed
+654,User_24,160,Headphones,2024-06-20,2024-07-07,denied
+655,User_39,160,Headphones,2024-07-12,2024-07-22,requested
+656,User_11,160,Headphones,2024-08-09,2024-08-20,requested
+657,User_31,160,Headphones,2024-06-18,2024-06-28,confirmed
+658,User_37,160,Headphones,2024-05-14,2024-06-05,denied
+659,User_76,160,Headphones,2025-03-01,2025-03-12,confirmed
+660,User_26,161,Pride and Prejudice,2024-07-22,2024-07-28,confirmed
+661,User_83,161,Pride and Prejudice,2024-11-12,2024-12-03,confirmed
+662,User_44,161,Pride and Prejudice,2025-04-01,2025-04-11,requested
+663,User_39,161,Pride and Prejudice,2024-07-14,2024-07-30,requested
+664,User_33,161,Pride and Prejudice,2025-01-23,2025-01-26,requested
+665,User_58,161,Pride and Prejudice,2024-07-20,2024-07-30,confirmed
+666,User_62,161,Pride and Prejudice,2025-01-17,2025-01-26,confirmed
+667,User_32,161,Pride and Prejudice,2024-12-30,2025-01-07,confirmed
+668,User_95,162,The Hobbit,2024-11-26,2024-12-23,denied
+669,User_3,162,The Hobbit,2024-05-01,2024-05-14,requested
+670,User_79,162,The Hobbit,2024-07-22,2024-08-13,denied
+671,User_4,162,The Hobbit,2024-10-15,2024-10-24,requested
+672,User_56,162,The Hobbit,2024-09-24,2024-10-22,denied
+673,User_24,162,The Hobbit,2024-12-04,2024-12-22,confirmed
+674,User_2,163,Toaster,2024-09-09,2024-09-25,denied
+675,User_78,163,Toaster,2024-09-08,2024-09-19,confirmed
+676,User_6,163,Toaster,2024-07-10,2024-07-17,requested
+677,User_98,163,Toaster,2024-06-26,2024-07-24,denied
+678,User_4,163,Toaster,2024-06-21,2024-07-08,denied
+679,User_50,163,Toaster,2024-08-26,2024-09-10,confirmed
+680,User_33,163,Toaster,2024-09-23,2024-09-24,requested
+681,User_24,163,Toaster,2024-07-04,2024-07-28,requested
+682,User_24,163,Toaster,2024-08-05,2024-08-12,requested
+683,User_61,164,Golf Clubs,2025-05-24,2025-06-05,confirmed
+684,User_35,164,Golf Clubs,2025-02-04,2025-03-05,confirmed
+685,User_68,164,Golf Clubs,2025-06-11,2025-06-18,confirmed
+686,User_52,164,Golf Clubs,2025-04-29,2025-04-30,requested
+687,User_75,164,Golf Clubs,2025-05-14,2025-05-19,requested
+688,User_51,164,Golf Clubs,2025-03-15,2025-04-07,denied
+689,User_11,164,Golf Clubs,2025-07-03,2025-07-04,denied
+690,User_87,164,Golf Clubs,2025-06-01,2025-06-08,confirmed
+691,User_10,165,Pliers,2024-05-16,2024-05-21,requested
+692,User_10,165,Pliers,2024-08-22,2024-08-28,requested
+693,User_10,165,Pliers,2024-07-12,2024-07-20,confirmed
+694,User_2,165,Pliers,2024-04-12,2024-05-04,requested
+695,User_50,165,Pliers,2024-08-24,2024-09-01,requested
+696,User_44,165,Pliers,2024-04-21,2024-05-09,denied
+697,User_84,165,Pliers,2024-09-28,2024-09-30,requested
+698,User_10,165,Pliers,2024-01-21,2024-01-25,requested
+699,User_4,165,Pliers,2024-04-28,2024-05-07,confirmed
+700,User_6,166,Soccer Ball,2025-04-01,2025-04-28,requested
+701,User_66,166,Soccer Ball,2024-12-08,2024-12-25,confirmed
+702,User_48,166,Soccer Ball,2025-04-04,2025-04-19,confirmed
+703,User_82,168,Blender,2024-07-24,2024-08-14,confirmed
+704,User_37,168,Blender,2024-08-21,2024-09-02,confirmed
+705,User_10,168,Blender,2024-07-17,2024-08-08,requested
+706,User_81,168,Blender,2024-06-21,2024-07-09,confirmed
+707,User_20,168,Blender,2024-05-23,2024-06-11,denied
+708,User_28,168,Blender,2024-04-10,2024-05-04,denied
+709,User_76,168,Blender,2024-04-14,2024-05-12,denied
+710,User_90,168,Blender,2024-06-03,2024-06-03,denied
+711,User_42,168,Blender,2024-06-01,2024-06-22,requested
+712,User_37,170,Coffee Maker,2024-07-28,2024-08-10,requested
+713,User_75,170,Coffee Maker,2024-10-01,2024-10-19,confirmed
+714,User_86,170,Coffee Maker,2025-02-08,2025-02-10,denied
+715,User_91,170,Coffee Maker,2024-12-15,2025-01-10,denied
+716,User_9,170,Coffee Maker,2024-11-25,2024-11-30,confirmed
+717,User_56,170,Coffee Maker,2024-07-26,2024-08-01,requested
+718,User_20,170,Coffee Maker,2024-12-09,2024-12-12,denied
+719,User_56,170,Coffee Maker,2024-08-25,2024-09-03,denied
+720,User_98,170,Coffee Maker,2024-08-25,2024-09-03,denied
+721,User_98,172,Badminton Set,2024-07-11,2024-08-07,requested
+722,User_85,173,Power Bank,2024-03-22,2024-03-28,confirmed
+723,User_30,173,Power Bank,2024-07-12,2024-07-20,confirmed
+724,User_35,173,Power Bank,2024-05-30,2024-06-27,requested
+725,User_53,173,Power Bank,2024-05-20,2024-06-01,denied
+726,User_83,173,Power Bank,2024-07-23,2024-08-16,denied
+727,User_1,173,Power Bank,2024-03-15,2024-04-05,requested
+728,User_49,174,Electric Kettle,2025-06-10,2025-06-27,confirmed
+729,User_33,174,Electric Kettle,2025-03-29,2025-04-11,confirmed
+730,User_1,174,Electric Kettle,2025-04-23,2025-04-30,confirmed
+731,User_19,175,Ladder,2024-12-20,2024-12-31,denied
+732,User_97,175,Ladder,2024-10-02,2024-10-31,denied
+733,User_64,175,Ladder,2025-02-15,2025-02-16,requested
+734,User_83,175,Ladder,2025-01-13,2025-01-16,denied
+735,User_40,175,Ladder,2024-10-06,2024-10-22,requested
+736,User_100,176,USB Drive,2024-08-21,2024-08-25,requested
+737,User_73,176,USB Drive,2024-10-23,2024-11-05,confirmed
+738,User_89,176,USB Drive,2024-07-29,2024-07-30,denied
+739,User_90,176,USB Drive,2024-08-25,2024-09-09,denied
+740,User_76,176,USB Drive,2024-08-25,2024-09-09,denied
+741,User_76,177,Projector,2024-04-22,2024-05-10,confirmed
+742,User_29,177,Projector,2024-05-25,2024-06-10,confirmed
+743,User_57,177,Projector,2024-12-11,2024-12-19,confirmed
+744,User_1,177,Projector,2024-09-22,2024-10-15,confirmed
+745,User_68,177,Projector,2024-04-24,2024-05-12,denied
+746,User_24,177,Projector,2024-08-25,2024-09-05,requested
+747,User_39,177,Projector,2024-12-12,2024-12-18,requested
+748,User_93,178,Fahrenheit 451,2024-08-03,2024-08-15,denied
+749,User_27,178,Fahrenheit 451,2024-09-04,2024-09-26,denied
+750,User_76,178,Fahrenheit 451,2024-09-10,2024-09-25,requested
+751,User_34,179,To Kill a Mockingbird,2024-10-30,2024-11-18,requested
+752,User_11,179,To Kill a Mockingbird,2024-10-17,2024-11-06,requested
+753,User_90,179,To Kill a Mockingbird,2024-11-10,2024-11-27,requested
+754,User_33,179,To Kill a Mockingbird,2024-10-09,2024-10-11,requested
+755,User_2,179,To Kill a Mockingbird,2024-12-29,2024-12-30,requested
+756,User_53,179,To Kill a Mockingbird,2024-11-16,2024-12-06,requested
+757,User_33,179,To Kill a Mockingbird,2024-10-09,2024-10-11,requested
+758,User_75,179,To Kill a Mockingbird,2024-10-01,2024-10-28,requested
+759,User_84,179,To Kill a Mockingbird,2024-11-16,2024-12-06,requested
+760,User_24,180,Golf Clubs,2024-12-15,2024-12-24,confirmed
+761,User_29,180,Golf Clubs,2025-04-27,2025-04-30,confirmed
+762,User_54,180,Golf Clubs,2025-01-19,2025-02-09,requested
+763,User_99,181,Soccer Ball,2024-06-22,2024-06-30,requested
+764,User_23,182,Smartphone Charger,2024-07-07,2024-07-09,requested
+765,User_27,183,Laptop,2024-09-15,2024-09-17,denied
+766,User_49,183,Laptop,2024-08-30,2024-09-03,denied
+767,User_19,183,Laptop,2024-08-21,2024-09-04,denied
+768,User_19,183,Laptop,2024-10-05,2024-10-11,denied
+769,User_73,183,Laptop,2024-09-07,2024-09-17,requested
+770,User_32,183,Laptop,2024-10-10,2024-10-19,confirmed
+771,User_43,183,Laptop,2024-10-17,2024-10-18,requested
+772,User_3,183,Laptop,2024-10-13,2024-10-15,confirmed
+773,User_18,184,Harry Potter and the Sorcerer's Stone,2024-10-04,2024-10-31,requested
+774,User_31,184,Harry Potter and the Sorcerer's Stone,2024-10-29,2024-11-20,confirmed
+775,User_78,184,Harry Potter and the Sorcerer's Stone,2024-10-05,2024-11-01,confirmed
+776,User_84,184,Harry Potter and the Sorcerer's Stone,2024-11-05,2024-11-07,denied
+777,User_33,184,Harry Potter and the Sorcerer's Stone,2024-10-06,2024-10-21,confirmed
+778,User_61,184,Harry Potter and the Sorcerer's Stone,2024-09-09,2024-09-28,requested
+779,User_97,184,Harry Potter and the Sorcerer's Stone,2024-12-16,2024-12-18,denied
+780,User_38,185,Power Bank,2025-07-25,2025-07-26,denied
+781,User_67,185,Power Bank,2024-10-03,2024-10-17,requested
+782,User_54,185,Power Bank,2024-11-03,2024-12-03,requested
+783,User_89,185,Power Bank,2024-12-15,2025-01-05,confirmed
+784,User_3,185,Power Bank,2025-04-22,2025-05-08,requested
+785,User_62,185,Power Bank,2025-08-08,2025-08-14,denied
+786,User_8,185,Power Bank,2025-01-25,2025-02-22,confirmed
+787,User_21,186,Pride and Prejudice,2025-02-16,2025-02-19,denied
+788,User_52,186,Pride and Prejudice,2024-04-11,2024-04-26,requested
+789,User_21,187,Blender,2024-09-03,2024-09-04,confirmed
+790,User_75,187,Blender,2024-06-26,2024-07-22,requested
+791,User_22,189,Skateboard,2024-10-09,2024-10-11,confirmed
+792,User_61,189,Skateboard,2024-08-04,2024-08-21,confirmed
+793,User_18,189,Skateboard,2024-07-27,2024-08-21,confirmed
+794,User_81,189,Skateboard,2024-07-31,2024-08-01,denied
+795,User_96,191,Portable Speaker,2024-07-12,2024-08-03,requested
+796,User_26,191,Portable Speaker,2024-10-09,2024-10-10,denied
+797,User_9,191,Portable Speaker,2024-08-30,2024-09-17,denied
+798,User_26,191,Portable Speaker,2024-08-19,2024-09-06,requested
+799,User_63,191,Portable Speaker,2024-10-31,2024-09-21,confirmed
+800,User_46,191,Portable Speaker,2024-10-31,2024-11-15,requested
+801,User_85,192,Yoga Mat,2024-09-10,2024-09-13,requested
+802,User_44,192,Yoga Mat,2024-09-12,2024-09-23,denied
+803,User_26,192,Yoga Mat,2024-10-27,2024-11-12,requested
+804,User_60,192,Yoga Mat,2024-08-21,2024-08-23,requested
+805,User_86,192,Yoga Mat,2024-08-30,2024-09-09,denied
+806,User_64,193,Portable Speaker,2024-06-15,2024-07-07,confirmed
+807,User_76,193,Portable Speaker,2024-06-05,2024-06-08,confirmed
+808,User_24,193,Portable Speaker,2024-06-13,2024-06-28,denied
+809,User_55,193,Portable Speaker,2024-06-26,2024-07-04,denied
+810,User_20,193,Portable Speaker,2024-06-01,2024-06-26,denied
+811,User_44,193,Portable Speaker,2024-06-28,2024-06-29,confirmed
+812,User_88,193,Portable Speaker,2024-06-19,2024-06-27,requested
+813,User_86,194,Level,2024-10-23,2024-11-13,denied
+814,User_18,194,Level,2024-07-18,2024-07-30,requested
+815,User_36,194,Level,2024-08-24,2024-09-09,requested
+816,User_84,194,Level,2024-06-20,2024-06-30,denied
+817,User_71,194,Level,2024-04-01,2024-05-08,requested
+818,User_75,194,Level,2024-04-24,2024-05-12,denied
+819,User_33,194,Level,2024-04-28,2024-05-22,confirmed
+820,User_91,194,Level,2024-04-24,2024-05-16,denied
+821,User_11,194,Level,2024-04-28,2024-05-06,denied
+822,User_37,195,Hammer,2024-12-17,2024-12-29,confirmed
+823,User_10,195,Hammer,2024-12-09,2024-12-12,denied
+824,User_75,195,Hammer,2024-12-06,2024-12-27,requested
+825,User_3,195,Hammer,2024-12-29,2025-01-18,denied
+826,User_10,195,Hammer,2024-12-09,2024-12-12,denied
+827,User_70,195,Hammer,2024-12-29,2025-01-18,denied
+828,User_56,195,Hammer,2024-12-06,2024-12-27,requested
+829,User_44,195,Hammer,2024-12-17,2024-12-22,denied
+830,User_4,195,Hammer,2024-12-06,2024-12-27,requested
+831,User_37,196,Harry Potter and the Sorcerer's Stone,2024-10-04,2024-10-31,requested
+832,User_31,196,Harry Potter and the Sorcerer's Stone,2024-10-29,2024-11-20,confirmed
+833,User_78,196,Harry Potter and the Sorcerer's Stone,2024-10-05,2024-11-01,confirmed
+834,User_84,196,Harry Potter and the Sorcerer's Stone,2024-11-05,2024-11-07,denied
+835,User_33,196,Harry Potter and the Sorcerer's Stone,2024-10-06,2024-10-21,confirmed
+836,User_61,196,Harry Potter and the Sorcerer's Stone,2024-09-09,2024-09-28,requested
+837,User_97,196,Harry Potter and the Sorcerer's Stone,2024-12-16,2024-12-18,denied
+838,User_38,197,Knife Set,2024-05-02,2024-05-12,confirmed
+839,User_67,197,Knife Set,2024-04-05,2024-04-06,confirmed
+840,User_76,197,Knife Set,2024-04-01,2024-04-11,requested
+841,User_36,197,Knife Set,2024-04-01,2024-04-11,requested
+842,User_36,197,Knife Set,2024-04-01,2024-04-11,requested
+843,User_36,197,Knife Set,2024-04-01,2024-04-11,requested
+844,User_84,197,Knife Set,2024-04-05,2024-04-06,confirmed
+845,User_84,197,Knife Set,2024-04-05,2024-04-06,confirmed
+846,User_75,197,Knife Set,2024-04-05,2024-04-06,confirmed
+847,User_75,197,Knife Set,2024-04-05,2024-04-06,confirmed
+848,User_37,198,Saw,2024-05-21,2024-06-13,confirmed
+849,User_37,198,Saw,2024-06-16,2024-06-18,confirmed
+850,User_61,198,Saw,2024-04-21,2024-04-23,requested
+851,User_23,198,Saw,2024-04-23,2024-05-05,requested
+852,User_74,198,Saw,2024-05-08,2024-06-01,confirmed
+853,User_73,198,Saw,2024-03-11,2024-03-26,confirmed
+854,User_17,198,Saw,2024-05-06,2024-05-18,denied
+855,User_79,198,Saw,2024-05-06,2024-05-18,denied
+856,User_30,199,Hammer,2024-01-15,2024-02-13,requested
+857,User_22,199,Hammer,2024-05-24,2024-06-19,denied
+858,User_1,199,Hammer,2024-10-06,2024-10-18,confirmed
+859,User_6,199,Hammer,2024-09-05,2024-09-30,confirmed
+860,User_70,199,Hammer,2024-02-09,2024-02-24,denied
+861,User_56,199,Hammer,2024-05-19,2024-06-12,requested
+862,User_47,199,Hammer,2024-04-10,2024-04-26,denied
+863,User_12,199,Hammer,2024-10-14,2024-10-17,denied
+864,User_44,202,Skateboard,2024-10-02,2024-10-07,denied
+865,User_73,202,Skateboard,2024-07-12,2024-07-29,denied
+866,User_15,202,Skateboard,2024-09-24,2024-10-05,denied
+867,User_37,202,Skateboard,2024-07-18,2024-08-17,denied
+868,User_51,202,Skateboard,2024-07-09,2024-07-26,denied
+869,User_79,203,Microwave,2024-09-01,2024-09-12,requested
+870,User_84,203,Microwave,2024-02-13,2024-02-16,confirmed
+871,User_84,203,Microwave,2024-02-15,2024-03-02,confirmed
+872,User_62,203,Microwave,2024-04-28,2024-04-29,requested
+873,User_83,203,Microwave,2024-06-12,2024-06-28,denied
+874,User_33,203,Microwave,2024-08-13,2024-08-19,requested
+875,User_33,203,Microwave,2024-03-23,2024-04-02,denied
+876,User_33,203,Microwave,2024-05-02,2024-05-12,confirmed
+877,User_24,203,Microwave,2024-05-02,2024-05-12,confirmed
+878,User_24,204,Coffee Maker,2025-01-08,2025-01-30,confirmed
+879,User_98,204,Coffee Maker,2024-12-02,2024-12-05,denied
+880,User_12,204,Coffee Maker,2025-03-06,2025-03-07,confirmed
+881,User_5,204,Coffee Maker,2024-12-22,2025-01-13,requested
+882,User_76,204,Coffee Maker,2025-03-25,2025-03-27,confirmed
+883,User_98,204,Coffee Maker,2025-01-02,2025-01-04,requested
+884,User_44,204,Coffee Maker,2025-02-15,2025-03-05,denied
+885,User_43,204,Coffee Maker,2025-02-15,2025-03-05,denied
+886,User_43,205,Saw,2024-12-14,2025-01-11,denied
+887,User_59,205,Saw,2024-12-21,2025-01-03,confirmed
+888,User_60,205,Saw,2024-11-02,2024-11-17,requested
+889,User_19,205,Saw,2025-03-04,2025-03-27,requested
+890,User_56,205,Saw,2025-04-24,2025-05-16,denied
+891,User_1,205,Saw,2025-04-10,2025-05-07,denied
+892,User_99,205,Saw,2025-03-19,2025-04-14,requested
+893,User_71,205,Saw,2025-02-18,2025-03-09,requested
+894,User_6,206,Portable Speaker,2024-02-01,2024-02-27,requested
+895,User_73,206,Portable Speaker,2024-02-03,2024-02-12,denied
+896,User_19,206,Portable Speaker,2024-02-10,2024-02-29,requested
+897,User_39,206,Portable Speaker,2024-02-10,2024-02-29,requested
+898,User_39,207,Slow Cooker,2024-02-23,2024-03-16,requested
+899,User_33,207,Slow Cooker,2024-03-18,2024-03-19,denied
+900,User_24,207,Slow Cooker,2024-03-09,2024-03-21,denied
+901,User_50,207,Slow Cooker,2024-03-11,2024-03-12,requested
+902,User_54,208,Moby Dick,2024-12-30,2025-01-18,denied
+903,User_66,208,Moby Dick,2025-06-14,2025-07-07,requested
+904,User_5,208,Moby Dick,2024-12-05,2024-12-17,denied
+905,User_90,208,Moby Dick,2025-04-28,2025-05-10,denied
+906,User_20,208,Moby Dick,2025-02-14,2025-03-05,confirmed
+907,User_38,208,Moby Dick,2024-11-25,2024-11-30,denied
+908,User_78,208,Moby Dick,2025-02-13,2025-03-14,denied
+909,User_51,208,Moby Dick,2025-07-06,2025-07-18,requested
+910,User_84,208,Moby Dick,2024-12-15,2025-01-01,denied
+911,User_67,210,Laptop,2024-08-05,2024-08-26,confirmed
+912,User_37,210,Laptop,2024-09-08,2024-10-02,requested
+913,User_44,210,Laptop,2024-05-24,2024-06-15,denied
+914,User_33,210,Laptop,2025-03-05,2025-03-11,denied
+915,User_82,210,Laptop,2024-10-22,2024-11-10,confirmed
+916,User_96,210,Laptop,2025-02-15,2025-02-19,denied
+917,User_95,210,Laptop,2024-07-25,2024-08-23,denied
+918,User_91,210,Laptop,2024-08-11,2024-08-22,requested
+919,User_78,211,Mixing Bowls,2025-09-20,2025-10-18,denied
+920,User_88,212,Headphones,2024-07-11,2024-07-27,requested
+921,User_70,212,Headphones,2024-12-17,2024-12-18,denied
+922,User_87,212,Headphones,2024-07-22,2024-08-04,requested
+923,User_55,212,Headphones,2025-01-14,2025-01-15,requested
+924,User_53,212,Headphones,2024-10-27,2024-10-31,denied
+925,User_53,212,Headphones,2024-10-27,2024-10-31,denied
+926,User_92,212,Headphones,2024-06-11,2024-07-09,confirmed
+927,User_36,212,Headphones,2024-12-20,2024-12-23,requested
+928,User_27,213,Microwave,2024-04-03,2024-04-11,requested
+929,User_7,213,Microwave,2024-04-27,2024-05-23,denied
+930,User_91,213,Microwave,2024-05-11,2024-05-26,confirmed
+931,User_35,214,Power Bank,2024-05-04,2024-06-03,denied
+932,User_69,214,Power Bank,2024-08-25,2024-09-11,confirmed
+933,User_73,214,Power Bank,2024-08-29,2024-09-05,denied
+934,User_77,214,Power Bank,2024-08-29,2024-09-05,denied
+935,User_24,214,Power Bank,2024-08-29,2024-09-05,denied
+936,User_24,215,Golf Clubs,2024-09-14,2024-09-23,denied
+937,User_9,215,Golf Clubs,2024-08-02,2024-08-31,confirmed
+938,User_44,215,Golf Clubs,2024-10-05,2024-11-01,requested
+939,User_33,215,Golf Clubs,2024-07-18,2024-07-31,requested
+940,User_85,215,Golf Clubs,2024-07-30,2024-08-20,confirmed
+941,User_70,215,Golf Clubs,2024-06-20,2024-06-28,confirmed
+942,User_91,216,Electric Drill,2024-05-08,2024-05-16,denied
+943,User_28,216,Electric Drill,2024-03-15,2024-03-30,requested
+944,User_55,216,Electric Drill,2024-03-07,2024-03-26,confirmed
+945,User_20,217,Headphones,2024-05-18,2024-05-22,confirmed
+946,User_18,217,Headphones,2024-04-15,2024-05-11,denied
+947,User_40,217,Headphones,2024-05-29,2024-06-04,denied
+948,User_46,217,Headphones,2024-03-21,2024-04-07,confirmed
+949,User_68,218,Wrench Set,2024-05-27,2024-06-01,confirmed
+950,User_77,218,Wrench Set,2024-06-03,2024-06-18,denied
+951,User_36,218,Wrench Set,2024-12-14,2024-12-20,requested
+952,User_5,218,Wrench Set,2024-07-16,2024-07-25,confirmed
+953,User_42,218,Wrench Set,2024-09-24,2024-09-26,denied
+954,User_20,218,Wrench Set,2024-05-22,2024-06-05,requested
+955,User_61,218,Wrench Set,2024-09-07,2024-09-14,requested
+956,User_92,218,Wrench Set,2024-11-27,2024-12-04,requested
+957,User_55,218,Wrench Set,2025-01-12,2025-01-27,requested
+958,User_40,218,Wrench Set,2025-01-27,2025-01-31,confirmed
+959,User_68,220,Harry Potter and the Sorcerer's Stone,2025-05-26,2025-06-25,confirmed
+960,User_38,220,Harry Potter and the Sorcerer's Stone,2025-04-06,2025-04-09,confirmed
+961,User_60,220,Harry Potter and the Sorcerer's Stone,2025-01-30,2025-02-02,confirmed
+962,User_92,220,Harry Potter and the Sorcerer's Stone,2025-06-25,2025-06-28,confirmed
+963,User_26,220,Harry Potter and the Sorcerer's Stone,2025-01-28,2025-02-01,confirmed
+964,User_57,220,Harry Potter and the Sorcerer's Stone,2025-04-28,2025-05-08,denied
+965,User_5,220,Harry Potter and the Sorcerer's Stone,2025-05-03,2025-05-28,confirmed
+966,User_74,220,Harry Potter and the Sorcerer's Stone,2025-05-02,2025-05-23,requested
+967,User_33,222,Jane Eyre,2024-12-30,2025-01-14,confirmed
+968,User_67,222,Jane Eyre,2024-10-27,2024-11-13,confirmed
+969,User_75,222,Jane Eyre,2024-11-15,2024-11-25,requested
+970,User_59,222,Jane Eyre,2024-09-06,2024-09-23,requested
+971,User_33,222,Jane Eyre,2024-10-08,2024-10-27,denied
+972,User_28,222,Jane Eyre,2024-11-26,2024-12-02,confirmed
+973,User_75,222,Jane Eyre,2024-10-01,2024-10-28,requested
+974,User_84,222,Jane Eyre,2024-11-16,2024-12-06,requested
+975,User_69,223,Knife Set,2025-06-12,2025-06-19,confirmed
+976,User_63,223,Knife Set,2025-03-07,2025-03-12,confirmed
+977,User_91,223,Knife Set,2025-05-28,2025-06-18,denied
+978,User_98,223,Knife Set,2025-06-15,2025-06-17,confirmed
+979,User_73,223,Knife Set,2025-05-10,2025-06-07,denied
+980,User_46,223,Knife Set,2025-02-12,2025-02-24,requested
+981,User_20,224,Blender,2024-05-29,2024-06-21,denied
+982,User_19,224,Blender,2024-05-19,2024-05-31,denied
+983,User_59,224,Blender,2024-04-10,2024-04-22,denied
+984,User_81,224,Blender,2024-04-14,2024-05-12,denied
+985,User_46,224,Blender,2024-07-04,2024-07-11,denied
+986,User_77,224,Blender,2024-09-29,2024-10-09,confirmed
+987,User_36,224,Blender,2024-05-23,2024-06-02,confirmed
+988,User_97,224,Blender,2024-06-08,2024-06-11,confirmed
+989,User_97,224,Blender,2024-06-08,2024-06-11,confirmed
+990,User_24,225,Basketball,2024-12-08,2024-12-11,requested
+991,User_24,225,Basketball,2024-10-21,2024-11-11,confirmed
+992,User_37,226,Golf Clubs,2024-08-03,2024-08-23,requested
+993,User_38,226,Golf Clubs,2024-07-28,2024-08-11,requested
+994,User_61,226,Golf Clubs,2024-12-16,2025-01-12,denied
+995,User_61,226,Golf Clubs,2024-10-05,2024-11-01,requested
+996,User_33,226,Golf Clubs,2024-07-14,2024-07-24,requested
+997,User_10,226,Golf Clubs,2024-07-14,2024-07-24,requested
+998,User_10,226,Golf Clubs,2024-07-14,2024-07-24,requested
+999,User_24,226,Golf Clubs,2024-07-14,2024-07-24,requested
+1000,User_24,226,Golf Clubs,2024-07-14,2024-07-24,requested
