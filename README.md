@@ -1,6 +1,6 @@
-# EcoLink: Community Resource Sharing Platform
+# EcoShare: Community Resource Sharing Platform
 
-EcoLink is a community-driven resource sharing platform designed to connect individuals, organizations, and communities for efficient and sustainable utilization of resources. Built with cutting-edge tools like Streamlit, FAISS, and CatBoost, EcoLink enables smart semantic search, waitlist management, admin dashboards, and ML-powered predictions to optimize resource distribution.
+EcoShare is a community-driven resource sharing platform designed to connect individuals, organizations, and communities for efficient and sustainable utilization of resources. Built with cutting-edge tools like Streamlit, FAISS, and CatBoost, EcoLink enables smart semantic search, waitlist management, admin dashboards, and ML-powered predictions to optimize resource distribution.
 
 ---
 
